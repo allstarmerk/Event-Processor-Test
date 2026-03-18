@@ -150,8 +150,9 @@ class EventProcessor:
         window_start: datetime,
         window_end: datetime,
         max_workers: int = 4,
+        dedup_ttl_seconds: Optional[float] = None,
     ):
-        self.dedup_cache = DeduplicationCache()
+        self.dedup_cache = DeduplicationCache(ttl_seconds=dedup_ttl_seconds)
         self.time_filter = TimeWindowFilter(window_start, window_end)
         self.scorer = PriorityScorer()
         self.max_workers = max_workers
@@ -178,10 +179,8 @@ class EventProcessor:
         """Process one event: dedup check, score, return if valid."""
         fp = event.fingerprint()
 
-        if self.dedup_cache.is_duplicate(fp):
+        if self.dedup_cache.check_and_mark(fp):
             return None
-
-        self.dedup_cache.mark_seen(fp)
 
         event.priority = self.scorer.score(event)
         return asdict(event)
