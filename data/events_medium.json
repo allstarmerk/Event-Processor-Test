@@ -1,0 +1,5502 @@
+[
+  {
+    "id": "2c7ea1c1-6d65-401c-920b-e12f082c2d3c",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-11-04T17:42:31",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 58efe0b9",
+      "value": 169.27
+    }
+  },
+  {
+    "id": "bdac2e01-7c04-4b31-99b4-6f6ad0aa5d6e",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-04-25T11:58:29",
+    "payload": {
+      "severity": "error",
+      "message": "Event 9bae5d31",
+      "value": 95.92
+    }
+  },
+  {
+    "id": "2a52fa5a-fe2f-4984-be71-fa2fd63ce5ab",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-08-14T07:31:33",
+    "payload": {
+      "severity": "error",
+      "message": "Event 7abcb41a",
+      "value": 916.75
+    }
+  },
+  {
+    "id": "58c1a477-56e5-437b-b200-3eb6342d9c03",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-06-15T10:57:38",
+    "payload": {
+      "severity": "error",
+      "message": "Event ee1f744c",
+      "value": 866.85
+    }
+  },
+  {
+    "id": "6f92abd4-617f-45f8-9926-c4d5182ba2c7",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-05-03T20:09:15",
+    "payload": {
+      "severity": "debug",
+      "message": "Event f8c0dd6d",
+      "value": 219.02
+    }
+  },
+  {
+    "id": "87f37c37-02a9-4d09-9dc7-3149b9bc8e68",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-06-16T12:13:29",
+    "payload": {
+      "severity": "error",
+      "message": "Event 86e683da",
+      "value": 607.32
+    }
+  },
+  {
+    "id": "2f3fb9b4-c05c-4345-81c0-7e920c024e83",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-08-27T10:14:53",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 8403276f",
+      "value": 593.72
+    }
+  },
+  {
+    "id": "4b3c121c-8a51-47b7-87ec-a0f128dd0a54",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-06-25T05:14:13",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 49e84833",
+      "value": 306.62
+    }
+  },
+  {
+    "id": "3ae66867-9dd0-4821-bf58-fe58504b6ec2",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-07-09T03:50:53",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 57f3eba2",
+      "value": 140.3
+    }
+  },
+  {
+    "id": "c182de96-b6da-4b4c-94bb-566ba747c38c",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-10-20T13:36:06",
+    "payload": {
+      "severity": "warning",
+      "message": "Event f76b2caa",
+      "value": 321.17
+    }
+  },
+  {
+    "id": "0aa6d6e6-6f16-4cf9-b48a-afd82679b83d",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-07-16T04:27:29",
+    "payload": {
+      "severity": "warning",
+      "message": "Event c7d7b1fb",
+      "value": 820.55
+    }
+  },
+  {
+    "id": "9ab12d18-c0c0-4f89-9311-3dc0e1cfe92e",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-10-14T17:38:53",
+    "payload": {
+      "severity": "debug",
+      "message": "Event cdcfc0c7",
+      "value": 239.28
+    }
+  },
+  {
+    "id": "303fc438-02fa-489a-a117-347337c8ff36",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-02-26T12:48:31",
+    "payload": {
+      "severity": "error",
+      "message": "Event 69d762c0",
+      "value": 531.17
+    }
+  },
+  {
+    "id": "197bbc8d-81fd-41ba-8b1a-4aa84211d5d9",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-07-12T19:25:36",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 95317435",
+      "value": 386.99
+    }
+  },
+  {
+    "id": "b3f849e7-5414-45a9-962a-1039b7a6da25",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-06-20T17:52:36",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 9d735a93",
+      "value": 181.49
+    }
+  },
+  {
+    "id": "837c8151-f6be-4ca1-9e58-c38f632c9ae2",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-11-03T12:16:36",
+    "payload": {
+      "severity": "critical",
+      "message": "Event e6ec6985",
+      "value": 449.73
+    }
+  },
+  {
+    "id": "281303a6-05b5-4ce0-9f5d-822dcd244278",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-02-17T03:10:48",
+    "payload": {
+      "severity": "error",
+      "message": "Event da05f046",
+      "value": 792.07
+    }
+  },
+  {
+    "id": "84aad96f-50eb-40f5-be87-a55a89e4abf0",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-08-29T03:07:30",
+    "payload": {
+      "severity": "warning",
+      "message": "Event b07bc7cf",
+      "value": 677.76
+    }
+  },
+  {
+    "id": "ec642514-772d-4369-a699-811e221a3164",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-06-28T19:30:32",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 75721bc2",
+      "value": 424.13
+    }
+  },
+  {
+    "id": "821e7bb8-23f4-4b42-b370-f05c8df6e4a9",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-10-01T04:17:18",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 820c0e1b",
+      "value": 918.68
+    }
+  },
+  {
+    "id": "be6f9232-7836-4614-b487-9be21a8644d7",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-06-07T13:15:04",
+    "payload": {
+      "severity": "error",
+      "message": "Event 95b861c1",
+      "value": 299.89
+    }
+  },
+  {
+    "id": "29c0fe0b-a25e-4e96-8a87-b3db17821c41",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-03-20T01:20:25",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 5c806eb4",
+      "value": 549.22
+    }
+  },
+  {
+    "id": "6d1c44b7-7b54-4001-9732-fc80a1827d04",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-07-24T02:55:49",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 8947c345",
+      "value": 78.1
+    }
+  },
+  {
+    "id": "0d6ae561-8701-404d-ac42-04161355abb6",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-04-06T21:47:08",
+    "payload": {
+      "severity": "critical",
+      "message": "Event e4fee710",
+      "value": 353.68
+    }
+  },
+  {
+    "id": "51299b1e-d45b-4ba6-92c4-559f49bc2254",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-05-19T16:07:50",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 751ee7c6",
+      "value": 882.81
+    }
+  },
+  {
+    "id": "55840d32-9497-4efc-8e11-9a2da013905a",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-06-06T20:11:04",
+    "payload": {
+      "severity": "info",
+      "message": "Event efd3c0e6",
+      "value": 555.18
+    }
+  },
+  {
+    "id": "2f9ec478-5bd9-477f-9365-2ea24ce41038",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-08-23T22:59:23",
+    "payload": {
+      "severity": "info",
+      "message": "Event d15d58f2",
+      "value": 34.8
+    }
+  },
+  {
+    "id": "ecde04de-bd81-4e4a-9299-673f21b7dd8b",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-11-17T08:06:22",
+    "payload": {
+      "severity": "info",
+      "message": "Event 5a43e913",
+      "value": 398.73
+    }
+  },
+  {
+    "id": "0a008f50-6e21-483d-abc6-dbbb0408f148",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-06-08T00:11:49",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 78d82183",
+      "value": 73.75
+    }
+  },
+  {
+    "id": "1927b8b5-9487-4f67-a1d3-0f5116488e50",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-09-21T01:53:54",
+    "payload": {
+      "severity": "info",
+      "message": "Event e5adf0c1",
+      "value": 9.29
+    }
+  },
+  {
+    "id": "2995f4bf-90c5-4e81-91d4-d6203d340b6a",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-11-24T05:25:01",
+    "payload": {
+      "severity": "debug",
+      "message": "Event ecfd5690",
+      "value": 974.55
+    }
+  },
+  {
+    "id": "7add9448-a3be-498f-a66a-346a6fa314c5",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "info",
+      "message": "Event e302c98e",
+      "value": 696.07
+    }
+  },
+  {
+    "id": "29b21392-4832-4dc8-8818-07e8701f3dc8",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-10-14T17:36:15",
+    "payload": {
+      "severity": "debug",
+      "message": "Event cdcfc0c7",
+      "value": 239.28
+    }
+  },
+  {
+    "id": "ec3b0256-2486-49ef-bd55-ee93f13e8a06",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-08-09T12:41:38",
+    "payload": {
+      "severity": "info",
+      "message": "Event fccb79ee",
+      "value": 461.68
+    }
+  },
+  {
+    "id": "a537cd41-d423-42c0-a04b-820c7449e44f",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-01-15T10:50:31",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 459f8c85",
+      "value": 995.93
+    }
+  },
+  {
+    "id": "dd573a93-e8f6-48c5-83aa-e8a8326a35d2",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-08-15T18:15:02",
+    "payload": {
+      "severity": "debug",
+      "message": "Event b32e1ef8",
+      "value": 561.68
+    }
+  },
+  {
+    "id": "235b3ffe-787e-48c5-907d-443a7c3e47b4",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-11-10T15:28:48",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 7f176488",
+      "value": 22.59
+    }
+  },
+  {
+    "id": "d8b0e905-139c-4897-afaa-64a6757c672d",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-07-07T05:32:24",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 30573a00",
+      "value": 912.68
+    }
+  },
+  {
+    "id": "d6c2613f-e37b-42c0-9054-6f41bb61d499",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-06-25T14:06:17",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 7e331e87",
+      "value": 337.5
+    }
+  },
+  {
+    "id": "efc62d08-3868-4524-a596-de48c5fabe91",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-08-16T13:30:16",
+    "payload": {
+      "severity": "info",
+      "message": "Event 1a1944ec",
+      "value": 305.38
+    }
+  },
+  {
+    "id": "0a5bd64c-9b36-44ef-a91b-74aa01c21d94",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-11-18T06:32:08",
+    "payload": {
+      "severity": "debug",
+      "message": "Event e9a931b9",
+      "value": 207.16
+    }
+  },
+  {
+    "id": "2522d764-3015-432f-b016-87740a84cfc0",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-11-25T00:13:07",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 7738997f",
+      "value": 430.93
+    }
+  },
+  {
+    "id": "37f356de-f20f-4483-8a10-f74ec7947380",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-10-09T04:23:41",
+    "payload": {
+      "severity": "error",
+      "message": "Event 3a1b8b11",
+      "value": 885.41
+    }
+  },
+  {
+    "id": "65cc0a25-5af8-4333-b290-2c4c45d91ac7",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-08-03T21:51:52",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 23f9c04a",
+      "value": 249.85
+    }
+  },
+  {
+    "id": "90c75c20-edd4-404c-91fb-2531d8e21b84",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-11-19T10:37:16",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 528adcb2",
+      "value": 775.74
+    }
+  },
+  {
+    "id": "0bdf2721-5948-4f1d-aab3-b804958b2dff",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-06-04T12:29:07",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 09801a3d",
+      "value": 36.7
+    }
+  },
+  {
+    "id": "96ad3317-4171-4f1f-b92c-f081c626b440",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-09-05T03:49:46",
+    "payload": {
+      "severity": "critical",
+      "message": "Event d9650479",
+      "value": 498.04
+    }
+  },
+  {
+    "id": "448f222a-014b-4fc0-ae8b-a66f4de11c13",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-12-15T07:59:30",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 75396f66",
+      "value": 190.08
+    }
+  },
+  {
+    "id": "ac211800-4fc6-4c66-a43a-d1a851e415db",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-09-16T10:39:36",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 15dc2d22",
+      "value": 72.08
+    }
+  },
+  {
+    "id": "98f42fa2-e30c-4e2c-9435-743d6ca3dbd6",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-04-29T11:08:59",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 7c661d91",
+      "value": 748.96
+    }
+  },
+  {
+    "id": "a6394d4e-0009-4980-aa38-b912c789ae8b",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-03-19T12:14:15",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 75323f95",
+      "value": 536.66
+    }
+  },
+  {
+    "id": "b391e1aa-09f0-4cff-a09b-ee82fb37c759",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-09-13T07:05:37",
+    "payload": {
+      "severity": "info",
+      "message": "Event a04976d5",
+      "value": 865.26
+    }
+  },
+  {
+    "id": "f1c90591-1b04-4853-ac3d-d792ff0767ec",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-04-18T15:22:01",
+    "payload": {
+      "severity": "critical",
+      "message": "Event b8bc9991",
+      "value": 690.28
+    }
+  },
+  {
+    "id": "1f3c7afd-530d-4a8d-9d48-ec17e7fe1177",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-08-26T18:26:26",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 153642ac",
+      "value": 240.56
+    }
+  },
+  {
+    "id": "c1bd5f3c-d727-476c-9f31-40cf5a90aa3b",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-08-06T14:02:42",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 7ec6f178",
+      "value": 85.18
+    }
+  },
+  {
+    "id": "01c21664-01d3-4053-a5b7-f7c0b942e80f",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-11-02T06:41:33",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 4091b89a",
+      "value": 2.84
+    }
+  },
+  {
+    "id": "4bb8f105-9594-4295-922a-34c3ae56f95e",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-06-22T11:55:32",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 77a96fac",
+      "value": 954.03
+    }
+  },
+  {
+    "id": "64027696-9d2e-4a13-bf79-86c4d2940c86",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 2191bea6",
+      "value": 494.89
+    }
+  },
+  {
+    "id": "456582db-83b3-4366-905c-fda5c19d5d56",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-07-25T00:27:25",
+    "payload": {
+      "severity": "error",
+      "message": "Event 4e15da9e",
+      "value": 376.19
+    }
+  },
+  {
+    "id": "f14afd62-84fb-4d1c-9207-2bbdb7066b82",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-01-06T08:33:50",
+    "payload": {
+      "severity": "warning",
+      "message": "Event d3978a06",
+      "value": 215.74
+    }
+  },
+  {
+    "id": "b975c1a4-27b7-4965-83ff-00d514f4d4cc",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-07-02T08:01:21",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 2327f381",
+      "value": 287.09
+    }
+  },
+  {
+    "id": "ace7d2a6-cca0-463f-b1ec-487205c194e8",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "debug",
+      "message": "Event f5ca4595",
+      "value": 126.58
+    }
+  },
+  {
+    "id": "de09cee3-e975-4068-8c65-54f0413be6b5",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-12-31T22:41:32",
+    "payload": {
+      "severity": "info",
+      "message": "Event 0349fa76",
+      "value": 50.64
+    }
+  },
+  {
+    "id": "45585eb0-0c16-46e3-a75f-dfe5bc62f30f",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "warning",
+      "message": "Event d32352af",
+      "value": 782.39
+    }
+  },
+  {
+    "id": "ab888247-1877-4851-b950-a6f17feb7644",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-11-04T21:09:26",
+    "payload": {
+      "severity": "error",
+      "message": "Event 22f44b83",
+      "value": 222.92
+    }
+  },
+  {
+    "id": "5162ff7d-d707-4c69-b763-cd4d1c3f2931",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-11-29T17:38:58",
+    "payload": {
+      "severity": "debug",
+      "message": "Event fa0c321f",
+      "value": 380.01
+    }
+  },
+  {
+    "id": "cbe778d6-0f84-4167-ad44-998c446873ca",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-05-29T02:58:44",
+    "payload": {
+      "severity": "info",
+      "message": "Event cb35fc44",
+      "value": 399.65
+    }
+  },
+  {
+    "id": "a5c3dded-30a3-4485-86c3-2ddd6f78417b",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-04-26T11:47:55",
+    "payload": {
+      "severity": "error",
+      "message": "Event 07c22c87",
+      "value": 711.81
+    }
+  },
+  {
+    "id": "81771def-445e-4cf4-a964-a24a83a54fe7",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-01-15T10:54:26",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 459f8c85",
+      "value": 995.93
+    }
+  },
+  {
+    "id": "61c27226-cb63-4597-bb0e-094efc268979",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-02-09T20:16:54",
+    "payload": {
+      "severity": "critical",
+      "message": "Event f92b1625",
+      "value": 327.92
+    }
+  },
+  {
+    "id": "5a78bfe2-7ce7-438c-81dc-ad20ded6fbe0",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-05-07T07:15:30",
+    "payload": {
+      "severity": "error",
+      "message": "Event 378df889",
+      "value": 91.21
+    }
+  },
+  {
+    "id": "7d341e8e-99e3-4186-8074-e5dfadc30d42",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-10-30T09:37:11",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 15d25357",
+      "value": 754.23
+    }
+  },
+  {
+    "id": "609686b3-9e9e-450c-9afd-e522dd5b2faf",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-05-23T23:13:13",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 4f06f72d",
+      "value": 413.93
+    }
+  },
+  {
+    "id": "88da594b-0529-4932-b07c-268295c35ddf",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-10-11T10:00:56",
+    "payload": {
+      "severity": "info",
+      "message": "Event 65607df1",
+      "value": 791.84
+    }
+  },
+  {
+    "id": "ee4134b9-396f-4462-8a16-7975d2ab7bca",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-07-27T19:18:40",
+    "payload": {
+      "severity": "debug",
+      "message": "Event b6fd3bd0",
+      "value": 152.68
+    }
+  },
+  {
+    "id": "4028e176-ff61-46c3-9fc3-8627ea62d269",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-04-15T14:48:44",
+    "payload": {
+      "severity": "error",
+      "message": "Event 9acbe432",
+      "value": 74.69
+    }
+  },
+  {
+    "id": "88420b30-369b-4696-a0de-caf8cfaa4a43",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-06-05T05:23:05",
+    "payload": {
+      "severity": "info",
+      "message": "Event beaa2e37",
+      "value": 234.34
+    }
+  },
+  {
+    "id": "dbc0bd77-1ed3-4366-828f-46c4ad2b8b60",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-08-09T12:44:46",
+    "payload": {
+      "severity": "info",
+      "message": "Event fccb79ee",
+      "value": 461.68
+    }
+  },
+  {
+    "id": "b0e46447-bd9b-49d7-8a01-aaf6f5968c83",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-08-16T13:27:06",
+    "payload": {
+      "severity": "info",
+      "message": "Event 1a1944ec",
+      "value": 305.38
+    }
+  },
+  {
+    "id": "d716f43e-5a89-4fef-bd99-8d6eca116560",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-11-05T16:13:11",
+    "payload": {
+      "severity": "info",
+      "message": "Event ccb7d4d8",
+      "value": 354.8
+    }
+  },
+  {
+    "id": "a57eef40-80e5-4d06-bcad-454305333c9f",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-03-05T17:14:30",
+    "payload": {
+      "severity": "info",
+      "message": "Event 9a354098",
+      "value": 351.55
+    }
+  },
+  {
+    "id": "f78749d5-5c5d-488b-8f77-e7f773cb1ede",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-02-10T23:41:36",
+    "payload": {
+      "severity": "info",
+      "message": "Event ae2b949d",
+      "value": 960.79
+    }
+  },
+  {
+    "id": "49381a49-fe3f-4d23-8f72-d52c9dbef9a6",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-01-20T22:39:53",
+    "payload": {
+      "severity": "debug",
+      "message": "Event ec92d0f5",
+      "value": 480.45
+    }
+  },
+  {
+    "id": "91ac3cfc-92d7-47d9-980f-48f5b85a1cf6",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-02-15T13:27:58",
+    "payload": {
+      "severity": "info",
+      "message": "Event 2ac16425",
+      "value": 914.44
+    }
+  },
+  {
+    "id": "81c82d94-b5b4-4cb5-9c20-697fea2b60aa",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-07-14T20:00:07",
+    "payload": {
+      "severity": "info",
+      "message": "Event baf3ef71",
+      "value": 764.4
+    }
+  },
+  {
+    "id": "8ba81c14-c0f0-4d0e-b3a5-f7303b5da072",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-09-04T17:42:07",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 54295bca",
+      "value": 459.57
+    }
+  },
+  {
+    "id": "b7c15bb3-e5e8-4b29-b67e-e42fa15086aa",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-02-23T10:12:07",
+    "payload": {
+      "severity": "error",
+      "message": "Event 8ff02632",
+      "value": 77.17
+    }
+  },
+  {
+    "id": "073b65e7-a413-4dfe-a63a-ddb12f95b751",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-06-11T19:36:20",
+    "payload": {
+      "severity": "debug",
+      "message": "Event c5868c80",
+      "value": 766.05
+    }
+  },
+  {
+    "id": "a9532224-5476-4b1c-9262-0a0a5351edc8",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-02-10T10:22:39",
+    "payload": {
+      "severity": "info",
+      "message": "Event 8dc7a947",
+      "value": 140.64
+    }
+  },
+  {
+    "id": "21dacc14-ef42-42d6-a29c-9c0a95913e72",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-04-27T14:31:47",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 2e2f37ad",
+      "value": 533.48
+    }
+  },
+  {
+    "id": "a882f59d-2965-404c-8bf0-287dfc53fd25",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-03-04T22:45:45",
+    "payload": {
+      "severity": "error",
+      "message": "Event af049bda",
+      "value": 322.66
+    }
+  },
+  {
+    "id": "c729cd7c-3dbf-45be-bafb-709bfdcf8535",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-12-04T15:26:11",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 825b834d",
+      "value": 186.96
+    }
+  },
+  {
+    "id": "fa220943-4c81-4fe5-9578-f40f5aca55af",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-11-24T08:49:44",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 264a9d74",
+      "value": 667.84
+    }
+  },
+  {
+    "id": "17e90ad1-c151-418a-b58a-0f95c3625422",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-12-31T11:57:58",
+    "payload": {
+      "severity": "info",
+      "message": "Event 03f580c0",
+      "value": 868.09
+    }
+  },
+  {
+    "id": "6ee49a11-20a7-4d35-94e6-4a4c0f24462c",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-04-06T06:46:17",
+    "payload": {
+      "severity": "error",
+      "message": "Event 6080f054",
+      "value": 96.81
+    }
+  },
+  {
+    "id": "ff5c4ecc-2985-49ff-963d-fbf40d31eafc",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-06-17T18:25:40",
+    "payload": {
+      "severity": "warning",
+      "message": "Event b1e01fd6",
+      "value": 728.55
+    }
+  },
+  {
+    "id": "cc470578-197e-49c6-a8ae-43f8cde03cb8",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-08-06T14:50:03",
+    "payload": {
+      "severity": "warning",
+      "message": "Event b3bdd0f9",
+      "value": 474.89
+    }
+  },
+  {
+    "id": "01934772-d641-4862-92e7-465201b5383f",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-03-28T05:48:09",
+    "payload": {
+      "severity": "error",
+      "message": "Event 449ce833",
+      "value": 147.35
+    }
+  },
+  {
+    "id": "a9478b6a-e467-4f7e-a8cc-1cd41406aec9",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-11-16T15:10:56",
+    "payload": {
+      "severity": "error",
+      "message": "Event 50e935fb",
+      "value": 761.86
+    }
+  },
+  {
+    "id": "eb1effa1-296d-4af6-87f5-ea3db0c083a4",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-11-29T17:48:49",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 482ef50a",
+      "value": 166.88
+    }
+  },
+  {
+    "id": "bf2b99dc-c497-4ce2-8de0-8828951d572e",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-03-05T11:03:38",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 8f63e0df",
+      "value": 139.23
+    }
+  },
+  {
+    "id": "492354cf-fb0d-476f-96be-a086a13ac028",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-08-27T10:12:03",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 8403276f",
+      "value": 593.72
+    }
+  },
+  {
+    "id": "9d1924e0-a773-4a55-890a-1acc5e86ea4f",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-04-16T20:37:13",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 7dd41c08",
+      "value": 556.72
+    }
+  },
+  {
+    "id": "a58f125a-77f5-4565-a472-c787617bf0b6",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-08-24T16:56:13",
+    "payload": {
+      "severity": "info",
+      "message": "Event b68e7906",
+      "value": 619.71
+    }
+  },
+  {
+    "id": "a95b9335-7283-432e-b54c-ed43a919e504",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "warning",
+      "message": "Event d432cb65",
+      "value": 554.22
+    }
+  },
+  {
+    "id": "3c4cbf61-3a98-4b8b-b334-d74163c346b3",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-11-17T22:27:27",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 584ed90e",
+      "value": 93.45
+    }
+  },
+  {
+    "id": "9417f4b4-3c6f-4fb0-8444-075da3ac8746",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-02-13T10:44:24",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 09d45858",
+      "value": 945.05
+    }
+  },
+  {
+    "id": "3e100f61-3d5e-45dc-8b01-52c8777e23e9",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-12-25T12:46:33",
+    "payload": {
+      "severity": "error",
+      "message": "Event 464cd913",
+      "value": 864.61
+    }
+  },
+  {
+    "id": "8f782847-c144-491d-84d1-3f8d716c5728",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "warning",
+      "message": "Event d1911493",
+      "value": 180.26
+    }
+  },
+  {
+    "id": "615d5c3c-97f4-45d3-90c1-c49566931121",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-07-19T22:08:41",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 803e9209",
+      "value": 128.33
+    }
+  },
+  {
+    "id": "875a07bd-3676-4311-9612-669d570fc8af",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-08-20T05:08:50",
+    "payload": {
+      "severity": "info",
+      "message": "Event 12081c18",
+      "value": 582.24
+    }
+  },
+  {
+    "id": "79cd040b-be30-44db-8a8a-7ec007074764",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-06-07T14:04:48",
+    "payload": {
+      "severity": "warning",
+      "message": "Event ca3a8bea",
+      "value": 321.06
+    }
+  },
+  {
+    "id": "182d8916-314d-4471-b4cf-aee5e1abc110",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-10-17T11:10:20",
+    "payload": {
+      "severity": "critical",
+      "message": "Event fdf2f893",
+      "value": 777.79
+    }
+  },
+  {
+    "id": "b33bf76c-5828-48f3-ad8f-f524ef454c89",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-01-05T18:19:18",
+    "payload": {
+      "severity": "debug",
+      "message": "Event c81004a8",
+      "value": 284.34
+    }
+  },
+  {
+    "id": "5b7e42df-53c8-4287-938f-a438a030fa2a",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-09-30T06:56:28",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 5864f330",
+      "value": 1.09
+    }
+  },
+  {
+    "id": "d09d35e2-804d-45b7-851f-9a18369d4474",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-09-25T01:30:08",
+    "payload": {
+      "severity": "info",
+      "message": "Event 99fb7da0",
+      "value": 317.04
+    }
+  },
+  {
+    "id": "d47f58bd-fbfa-4445-92c4-541892db398a",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-02-13T10:45:19",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 09d45858",
+      "value": 945.05
+    }
+  },
+  {
+    "id": "255d6910-b32a-43a1-9baa-6cf0178b8c36",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-03-13T18:37:04",
+    "payload": {
+      "severity": "info",
+      "message": "Event 40bf6280",
+      "value": 448.84
+    }
+  },
+  {
+    "id": "4e70ad7c-bba6-4243-8092-18f8f4484c68",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-09-12T15:08:47",
+    "payload": {
+      "severity": "info",
+      "message": "Event 52e2307b",
+      "value": 274.48
+    }
+  },
+  {
+    "id": "2694b592-84af-41c1-bda9-c04e47bbad70",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-01-13T12:24:32",
+    "payload": {
+      "severity": "info",
+      "message": "Event cdb4bc4d",
+      "value": 262.82
+    }
+  },
+  {
+    "id": "a7754126-f864-4b0a-8a9f-8b2840c1f47a",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-01-13T02:20:42",
+    "payload": {
+      "severity": "critical",
+      "message": "Event ec79538f",
+      "value": 998.59
+    }
+  },
+  {
+    "id": "22376722-5188-4ff8-94d9-a77d8ab4a7ae",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-07-22T17:58:12",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 28fc5be3",
+      "value": 283.0
+    }
+  },
+  {
+    "id": "e68fa88a-3a7e-4199-b89a-5f79eec8c15b",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-08-02T09:45:07",
+    "payload": {
+      "severity": "warning",
+      "message": "Event b07ac836",
+      "value": 775.51
+    }
+  },
+  {
+    "id": "d83158b6-a3d9-4036-9355-78aa2ca1fbb1",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-02-05T00:06:14",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 2a5aec85",
+      "value": 326.72
+    }
+  },
+  {
+    "id": "ee06997a-f7ae-4751-915d-27fdecfde4cf",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "info",
+      "message": "Event f858b9a2",
+      "value": 387.8
+    }
+  },
+  {
+    "id": "20b8e6aa-089b-4184-927a-92d75bafce10",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-08-19T12:34:02",
+    "payload": {
+      "severity": "warning",
+      "message": "Event d538db43",
+      "value": 555.79
+    }
+  },
+  {
+    "id": "2b40ecce-a902-4d3b-9063-f4a1f021e1b5",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-03-06T07:06:37",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 52405ef2",
+      "value": 510.48
+    }
+  },
+  {
+    "id": "9f35f4c9-d509-4564-b878-e732f175674e",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-01-10T12:56:25",
+    "payload": {
+      "severity": "info",
+      "message": "Event a1ba5c33",
+      "value": 104.55
+    }
+  },
+  {
+    "id": "bb2dbcd4-9e0c-43b0-a5e8-d018abc87f40",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-06-26T19:34:47",
+    "payload": {
+      "severity": "critical",
+      "message": "Event c8c5c0f0",
+      "value": 135.49
+    }
+  },
+  {
+    "id": "434795b9-aa80-4de1-afc6-a937b91dd33a",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-03-03T22:29:29",
+    "payload": {
+      "severity": "error",
+      "message": "Event 7ec6358c",
+      "value": 801.26
+    }
+  },
+  {
+    "id": "ffe456eb-9e97-45b9-b220-9d792607b26f",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-12-19T07:01:34",
+    "payload": {
+      "severity": "info",
+      "message": "Event 82bf5be9",
+      "value": 73.49
+    }
+  },
+  {
+    "id": "ff1c0225-d989-4beb-a94c-ec4e6042c002",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-03-11T10:50:32",
+    "payload": {
+      "severity": "error",
+      "message": "Event c9ad8e98",
+      "value": 566.32
+    }
+  },
+  {
+    "id": "eb57b662-56a2-4712-89ac-91424fba5cfd",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-11-24T12:40:25",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 157e004f",
+      "value": 250.61
+    }
+  },
+  {
+    "id": "9aaca3b9-909b-49f6-adcb-27035c4cb20a",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-09-24T10:59:28",
+    "payload": {
+      "severity": "warning",
+      "message": "Event a823edea",
+      "value": 699.73
+    }
+  },
+  {
+    "id": "a6ecdc3b-1914-492e-93ce-73f8bfd9c5b7",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-04-26T05:27:46",
+    "payload": {
+      "severity": "error",
+      "message": "Event f5cbe3de",
+      "value": 563.96
+    }
+  },
+  {
+    "id": "70beaf11-5ee4-4d9d-a735-27b7d8bcea4f",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-03-14T17:08:38",
+    "payload": {
+      "severity": "critical",
+      "message": "Event d41fb080",
+      "value": 949.01
+    }
+  },
+  {
+    "id": "215a6881-ec68-479c-92d9-be672f6c25d8",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-11-04T21:11:32",
+    "payload": {
+      "severity": "error",
+      "message": "Event 22f44b83",
+      "value": 222.92
+    }
+  },
+  {
+    "id": "524ea143-f6e5-4038-8f04-662486292d9f",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 7ea2782a",
+      "value": 790.77
+    }
+  },
+  {
+    "id": "a4c30578-1b48-407c-b5b5-91cfbfd94cea",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-06-29T14:00:14",
+    "payload": {
+      "severity": "info",
+      "message": "Event 38493c59",
+      "value": 442.16
+    }
+  },
+  {
+    "id": "b0a9549e-16ea-45f7-beab-a70ca1a74d8b",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-02-20T16:15:02",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 831816df",
+      "value": 716.94
+    }
+  },
+  {
+    "id": "7dd4919a-aae3-4fc2-b2df-74af34df9bdf",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-02-08T14:04:04",
+    "payload": {
+      "severity": "warning",
+      "message": "Event a8ca17b8",
+      "value": 544.47
+    }
+  },
+  {
+    "id": "cfe694f5-4b6e-4c3c-b034-3564d265172b",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-01-25T22:39:22",
+    "payload": {
+      "severity": "info",
+      "message": "Event f548db07",
+      "value": 407.6
+    }
+  },
+  {
+    "id": "9ba68d5a-4be3-4365-a71b-7330354f6b9d",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-11-03T01:41:24",
+    "payload": {
+      "severity": "info",
+      "message": "Event e4588c2c",
+      "value": 13.92
+    }
+  },
+  {
+    "id": "9e725fed-f43f-4750-a197-bba971cb4022",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-03-23T00:50:36",
+    "payload": {
+      "severity": "error",
+      "message": "Event 46476e61",
+      "value": 764.16
+    }
+  },
+  {
+    "id": "1e9f906c-ddbf-463d-ab57-985074053797",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-01-20T07:49:12",
+    "payload": {
+      "severity": "critical",
+      "message": "Event db2f5a8a",
+      "value": 272.1
+    }
+  },
+  {
+    "id": "472d727e-d388-495e-9cfa-62975358c68c",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-03-13T13:15:45",
+    "payload": {
+      "severity": "info",
+      "message": "Event ec100e2c",
+      "value": 692.07
+    }
+  },
+  {
+    "id": "630edf0d-a359-4da7-b055-5f1b82bf9dd7",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-07-27T02:41:14",
+    "payload": {
+      "severity": "error",
+      "message": "Event 346fc832",
+      "value": 191.54
+    }
+  },
+  {
+    "id": "279ea0c9-a7be-4600-85c9-f1f4e432a3b4",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-07-13T17:04:55",
+    "payload": {
+      "severity": "error",
+      "message": "Event 92eb03fc",
+      "value": 957.72
+    }
+  },
+  {
+    "id": "02c78a33-3005-41dd-a7e0-ed489f0562b8",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-06-04T13:41:28",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 7a8fc002",
+      "value": 570.28
+    }
+  },
+  {
+    "id": "5dffb40b-65b4-40a9-a9b1-17b190c70d41",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-08-23T14:29:00",
+    "payload": {
+      "severity": "error",
+      "message": "Event f50d9a4b",
+      "value": 312.58
+    }
+  },
+  {
+    "id": "e8e22cd4-3e58-49cd-a42a-7999ad0d9357",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-11-17T13:04:09",
+    "payload": {
+      "severity": "debug",
+      "message": "Event bb622b07",
+      "value": 271.13
+    }
+  },
+  {
+    "id": "3cc3e677-fa19-45d2-8fde-082a21e8eb80",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-11-14T01:09:15",
+    "payload": {
+      "severity": "error",
+      "message": "Event dccc5cde",
+      "value": 236.27
+    }
+  },
+  {
+    "id": "9ac7dbcf-a1ca-47f0-8f4c-3b7c85b65316",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-02-02T23:20:52",
+    "payload": {
+      "severity": "debug",
+      "message": "Event b510a5a0",
+      "value": 95.58
+    }
+  },
+  {
+    "id": "2fecee74-d3cb-414d-9994-2fe421203f17",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-10-03T06:40:50",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 6d84202b",
+      "value": 828.48
+    }
+  },
+  {
+    "id": "b8d60dbf-9ef2-43c5-8ca8-ba6d07256706",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-06-16T05:59:44",
+    "payload": {
+      "severity": "error",
+      "message": "Event 713c0bf0",
+      "value": 129.19
+    }
+  },
+  {
+    "id": "1d8b061e-9980-4875-9825-d9dd6168ee8e",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-02-15T14:07:01",
+    "payload": {
+      "severity": "error",
+      "message": "Event a7bb513b",
+      "value": 209.88
+    }
+  },
+  {
+    "id": "c74a5462-014d-42aa-92a4-a9d263682aa9",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-09-19T18:34:35",
+    "payload": {
+      "severity": "debug",
+      "message": "Event be587eab",
+      "value": 379.69
+    }
+  },
+  {
+    "id": "7610abfb-a800-42d8-a553-0f44f8f2b86b",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-01-03T06:57:19",
+    "payload": {
+      "severity": "warning",
+      "message": "Event fda60f24",
+      "value": 298.61
+    }
+  },
+  {
+    "id": "48268dd8-6dd0-4cd0-9c64-46cd1dc771c0",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-04-29T11:12:16",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 7c661d91",
+      "value": 748.96
+    }
+  },
+  {
+    "id": "080a1f9a-4f58-4a96-acdd-e0169f06dae5",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-09-27T06:22:04",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 152765f9",
+      "value": 464.55
+    }
+  },
+  {
+    "id": "13bd4079-fa9e-4f2d-a6db-8de9a37fcd1d",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-03-02T15:37:18",
+    "payload": {
+      "severity": "warning",
+      "message": "Event b731fed6",
+      "value": 372.85
+    }
+  },
+  {
+    "id": "27d065d3-c13a-4be4-8955-daf047b721f6",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-08-05T19:50:37",
+    "payload": {
+      "severity": "warning",
+      "message": "Event f27c1b24",
+      "value": 998.12
+    }
+  },
+  {
+    "id": "f31d896d-76d3-49ac-a294-c6920100c018",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-07-25T01:08:53",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 440adb07",
+      "value": 453.72
+    }
+  },
+  {
+    "id": "26c60d8f-7d11-4499-9c26-ddbcd1140a73",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-02-14T18:59:13",
+    "payload": {
+      "severity": "error",
+      "message": "Event 141652ef",
+      "value": 740.78
+    }
+  },
+  {
+    "id": "dbe42e23-37ed-4ad0-a41c-e98093c58c15",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-03-04T20:05:09",
+    "payload": {
+      "severity": "info",
+      "message": "Event e7beb0d5",
+      "value": 466.06
+    }
+  },
+  {
+    "id": "5c55b9ff-e586-499b-929c-2d303c6ee887",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-08-19T21:48:13",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 4c63c906",
+      "value": 50.58
+    }
+  },
+  {
+    "id": "93fc08e6-0436-4b2a-b2f4-9ba2a602979b",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-07-16T09:08:54",
+    "payload": {
+      "severity": "error",
+      "message": "Event 7468c515",
+      "value": 864.03
+    }
+  },
+  {
+    "id": "cb76f3b7-1adb-48a3-84c8-a4725c136fbc",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-10-26T08:39:35",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 0544c2ea",
+      "value": 32.38
+    }
+  },
+  {
+    "id": "081728e8-8d24-4f2d-ae74-e3cf675ccbab",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-09-27T18:42:48",
+    "payload": {
+      "severity": "error",
+      "message": "Event 2adbad89",
+      "value": 299.97
+    }
+  },
+  {
+    "id": "b75d9240-847f-4661-a423-6922adc981ca",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-02-14T19:07:50",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 30fee46c",
+      "value": 178.57
+    }
+  },
+  {
+    "id": "13a920a0-4f82-498b-9ec0-428cdbf9516e",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-06-25T05:12:44",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 49e84833",
+      "value": 306.62
+    }
+  },
+  {
+    "id": "64e55726-ee69-4528-8eee-561865a1af04",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-03-14T02:27:53",
+    "payload": {
+      "severity": "info",
+      "message": "Event 81547597",
+      "value": 542.12
+    }
+  },
+  {
+    "id": "588d0ab3-787f-46e6-ac13-d75daa4391dc",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-09-24T10:57:05",
+    "payload": {
+      "severity": "warning",
+      "message": "Event a823edea",
+      "value": 699.73
+    }
+  },
+  {
+    "id": "23f42b33-f8f7-4b94-80d8-50d400aa82cc",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-11-29T17:42:41",
+    "payload": {
+      "severity": "debug",
+      "message": "Event fa0c321f",
+      "value": 380.01
+    }
+  },
+  {
+    "id": "0b196765-dc8d-4095-8d81-78625f62a50d",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-08-10T10:04:54",
+    "payload": {
+      "severity": "critical",
+      "message": "Event a4b2c982",
+      "value": 267.89
+    }
+  },
+  {
+    "id": "3b8e729f-0c08-42a2-ab58-d8611bf14ff3",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-01-27T23:02:53",
+    "payload": {
+      "severity": "warning",
+      "message": "Event ce8751fe",
+      "value": 351.15
+    }
+  },
+  {
+    "id": "8c5ded37-43f3-43fb-944a-568ee26bcf5e",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-04-12T22:11:28",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 89146d9c",
+      "value": 623.26
+    }
+  },
+  {
+    "id": "f331515e-c33a-4587-b8b9-8dec67749d5b",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-03-15T21:07:56",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 4f7a29b7",
+      "value": 330.68
+    }
+  },
+  {
+    "id": "42d05daa-ec9a-4c02-ada1-5df63533edb5",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-03-02T08:26:22",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 812dccbd",
+      "value": 441.73
+    }
+  },
+  {
+    "id": "f0252f04-71b4-4c9e-ba9c-b4671f1ef1fa",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "critical",
+      "message": "Event cac62a78",
+      "value": 839.18
+    }
+  },
+  {
+    "id": "607ea468-bff5-4df9-840b-a92b47e32c6e",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-06-29T14:03:06",
+    "payload": {
+      "severity": "info",
+      "message": "Event 38493c59",
+      "value": 442.16
+    }
+  },
+  {
+    "id": "4dfb5f1a-00fd-46af-ba12-213de63cea20",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-01-17T03:50:17",
+    "payload": {
+      "severity": "info",
+      "message": "Event 382050dd",
+      "value": 546.35
+    }
+  },
+  {
+    "id": "3a51964a-0d05-4877-9c58-c26c58eb9fb2",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-12-01T00:21:19",
+    "payload": {
+      "severity": "info",
+      "message": "Event e577f767",
+      "value": 527.72
+    }
+  },
+  {
+    "id": "029042f8-3267-4d73-b668-91d4fbba2a60",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-10-10T13:29:52",
+    "payload": {
+      "severity": "error",
+      "message": "Event 6b1c7512",
+      "value": 348.33
+    }
+  },
+  {
+    "id": "82a36877-44a0-4265-bbd6-c0c927112a59",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-08-29T15:51:18",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 8ed896ff",
+      "value": 26.97
+    }
+  },
+  {
+    "id": "a85d4e2c-2c3d-478f-b1bd-f05a8fb5392c",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-01-27T12:28:26",
+    "payload": {
+      "severity": "info",
+      "message": "Event ed86f24f",
+      "value": 442.21
+    }
+  },
+  {
+    "id": "cacd735c-e95f-4fa3-a003-6d1a30bd0157",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-06-01T15:34:19",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 827f9dc3",
+      "value": 127.35
+    }
+  },
+  {
+    "id": "0afbf8fd-39f5-4812-9051-da591cb1efab",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-07-03T22:09:23",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 03ecba29",
+      "value": 438.17
+    }
+  },
+  {
+    "id": "f13d911e-0666-4b28-93ad-9883a6bcb2fe",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-04-22T02:36:08",
+    "payload": {
+      "severity": "error",
+      "message": "Event 23c3e5bc",
+      "value": 780.74
+    }
+  },
+  {
+    "id": "ebdf5077-e03b-45d8-8321-b2a314fecb7a",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-10-18T04:25:20",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 9f45fda8",
+      "value": 732.94
+    }
+  },
+  {
+    "id": "49240007-a40b-45a8-84dd-b2f24eaf36e9",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-05-08T18:42:18",
+    "payload": {
+      "severity": "info",
+      "message": "Event c1fbb34e",
+      "value": 105.94
+    }
+  },
+  {
+    "id": "d3312e2c-64d7-450c-9546-fba565522b1d",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-06-03T10:58:50",
+    "payload": {
+      "severity": "error",
+      "message": "Event 83826c8f",
+      "value": 968.13
+    }
+  },
+  {
+    "id": "0a948dde-84d3-4543-95c6-60299a257af5",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-06-27T12:22:28",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 52edac5f",
+      "value": 342.33
+    }
+  },
+  {
+    "id": "2b234a97-9f15-48fc-8141-36694b33a1de",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-02-01T19:25:17",
+    "payload": {
+      "severity": "info",
+      "message": "Event 02afc4aa",
+      "value": 19.38
+    }
+  },
+  {
+    "id": "ef4dec1d-4ebd-4119-b80f-292df4781bc7",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-10-11T23:28:04",
+    "payload": {
+      "severity": "debug",
+      "message": "Event a1705620",
+      "value": 965.47
+    }
+  },
+  {
+    "id": "16dcec05-da8b-4db3-962d-f7b7e2a907c1",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-04-05T04:44:53",
+    "payload": {
+      "severity": "error",
+      "message": "Event fe34a937",
+      "value": 6.38
+    }
+  },
+  {
+    "id": "889f0f18-ea3e-4aeb-b06e-6418afd96dc9",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-06-28T10:39:24",
+    "payload": {
+      "severity": "error",
+      "message": "Event ded55401",
+      "value": 797.76
+    }
+  },
+  {
+    "id": "af9ddc27-d20a-417b-81b2-7a7bd03c74d0",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-01-07T02:37:50",
+    "payload": {
+      "severity": "critical",
+      "message": "Event a32c608a",
+      "value": 532.21
+    }
+  },
+  {
+    "id": "d1ba0c18-4e6f-428e-9fad-a6b6b2f50e08",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-07-22T11:41:05",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 28e8e115",
+      "value": 395.77
+    }
+  },
+  {
+    "id": "c1d289be-2603-40eb-80b1-f9d473fe49da",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-11-03T02:14:19",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 4376833f",
+      "value": 225.69
+    }
+  },
+  {
+    "id": "362e2997-830b-4a5a-89bd-2a1e50eb175c",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-10-13T08:57:27",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 0146b902",
+      "value": 883.1
+    }
+  },
+  {
+    "id": "61817a82-4ee7-40be-b290-e7325ceb9810",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-03-05T17:17:47",
+    "payload": {
+      "severity": "info",
+      "message": "Event 9a354098",
+      "value": 351.55
+    }
+  },
+  {
+    "id": "32cc39ec-0129-4880-af60-b772f01d901a",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-02-23T13:00:58",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 9d39bf95",
+      "value": 383.71
+    }
+  },
+  {
+    "id": "be9dce40-1395-45cf-878c-257336dbbfe7",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-04-02T11:52:58",
+    "payload": {
+      "severity": "info",
+      "message": "Event 26872d6b",
+      "value": 492.03
+    }
+  },
+  {
+    "id": "f6bca6b1-6e77-4f07-ab86-002479a98332",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-03-20T01:18:01",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 5c806eb4",
+      "value": 549.22
+    }
+  },
+  {
+    "id": "ac4b6969-d95a-4b71-94b6-879369c7adab",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-06-03T15:51:42",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 971c4451",
+      "value": 291.45
+    }
+  },
+  {
+    "id": "a963fff5-2a79-4eda-b865-43ca24cf115c",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-03-02T08:07:03",
+    "payload": {
+      "severity": "info",
+      "message": "Event 02f7253d",
+      "value": 652.89
+    }
+  },
+  {
+    "id": "ff913b99-99f4-4cfd-87f4-ed72d4e5e625",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-02-09T09:22:57",
+    "payload": {
+      "severity": "info",
+      "message": "Event 16ffb3aa",
+      "value": 788.73
+    }
+  },
+  {
+    "id": "52a3a155-b0f7-4153-a5a8-52e5b2372337",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-07-16T00:43:21",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 7514c021",
+      "value": 310.41
+    }
+  },
+  {
+    "id": "4652eecb-685b-4e1e-8c64-3ba48bb89462",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-02-24T01:14:36",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 1b35b32b",
+      "value": 242.02
+    }
+  },
+  {
+    "id": "64dab0c4-72ed-494e-b2e6-243aa32f8529",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-12-24T19:28:30",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 6e625c1b",
+      "value": 787.83
+    }
+  },
+  {
+    "id": "bc280eaf-c047-49b5-ae78-245ac9c903f8",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-09-14T03:35:16",
+    "payload": {
+      "severity": "info",
+      "message": "Event 08c0d990",
+      "value": 586.02
+    }
+  },
+  {
+    "id": "3b23c6c2-7228-44c1-9d57-84eeeab4129f",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 39719f2c",
+      "value": 28.95
+    }
+  },
+  {
+    "id": "5a0ec59f-031e-4b82-ac50-a3b7ac2063ba",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-06-01T17:16:58",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 538fa847",
+      "value": 457.23
+    }
+  },
+  {
+    "id": "a57ebbbc-dc68-4c2f-b4bc-2d6e4a6704c2",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-09-09T00:20:28",
+    "payload": {
+      "severity": "error",
+      "message": "Event 87cbd515",
+      "value": 51.79
+    }
+  },
+  {
+    "id": "c85880b5-abed-4ff2-be53-1c2063953312",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-02-20T18:17:22",
+    "payload": {
+      "severity": "error",
+      "message": "Event 4371661c",
+      "value": 291.68
+    }
+  },
+  {
+    "id": "47464722-ac67-4074-a016-5faf234856d9",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-04-06T09:40:49",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 11fd46e2",
+      "value": 166.34
+    }
+  },
+  {
+    "id": "18008925-daf6-4fca-9617-b13af49e2cb7",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-10-19T13:10:48",
+    "payload": {
+      "severity": "error",
+      "message": "Event 3cd82cd3",
+      "value": 286.11
+    }
+  },
+  {
+    "id": "070d22d2-92e9-4932-9aaf-7911d27e23ed",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-04-13T19:38:49",
+    "payload": {
+      "severity": "info",
+      "message": "Event a978ce1c",
+      "value": 79.02
+    }
+  },
+  {
+    "id": "629ecbfc-2287-4f48-ab09-27b8bfbba5c4",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-11-18T06:27:46",
+    "payload": {
+      "severity": "debug",
+      "message": "Event e9a931b9",
+      "value": 207.16
+    }
+  },
+  {
+    "id": "11c820ed-8b17-4c82-9515-c96910a20f08",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-03-11T10:50:16",
+    "payload": {
+      "severity": "error",
+      "message": "Event c9ad8e98",
+      "value": 566.32
+    }
+  },
+  {
+    "id": "4aa91ae9-3f34-4cee-8b5a-1db243af70eb",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-12-12T10:13:54",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 60cb0ec6",
+      "value": 426.74
+    }
+  },
+  {
+    "id": "b70110d9-609d-4a6a-a046-68219bb4673c",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-05-03T12:00:55",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 3e3de155",
+      "value": 913.98
+    }
+  },
+  {
+    "id": "7a3ffb52-9ecf-48c6-8480-82b823830298",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-09-05T01:21:21",
+    "payload": {
+      "severity": "info",
+      "message": "Event 42739d9b",
+      "value": 826.99
+    }
+  },
+  {
+    "id": "f99c4fd0-ccc4-47fd-9812-825ecd5ae7d4",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-12-12T03:49:52",
+    "payload": {
+      "severity": "info",
+      "message": "Event 1c4f9c54",
+      "value": 448.54
+    }
+  },
+  {
+    "id": "ba207fb0-d3b2-4fec-b347-ac3aa56ce4ca",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-07-02T04:25:01",
+    "payload": {
+      "severity": "debug",
+      "message": "Event c56924b1",
+      "value": 357.43
+    }
+  },
+  {
+    "id": "0be40860-eef7-4a80-94c9-a94af6c58d92",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-11-02T04:42:52",
+    "payload": {
+      "severity": "error",
+      "message": "Event 798d26ce",
+      "value": 588.85
+    }
+  },
+  {
+    "id": "bfa2e917-87a1-487b-b265-480b869ee6b9",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-12-08T13:17:04",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 91bd9033",
+      "value": 642.99
+    }
+  },
+  {
+    "id": "5fd72c8b-d9b9-4e19-9baf-8042ce79b978",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-07-19T07:21:47",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 4305fadd",
+      "value": 954.08
+    }
+  },
+  {
+    "id": "a011ee43-656e-4b2a-8bb1-a34b2006d596",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-09-18T02:40:13",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 9e34528a",
+      "value": 584.56
+    }
+  },
+  {
+    "id": "350cd208-83c9-4866-ac6b-879e8a683d12",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-05-23T07:31:11",
+    "payload": {
+      "severity": "info",
+      "message": "Event af7bec3b",
+      "value": 553.47
+    }
+  },
+  {
+    "id": "739ddd51-e20b-4812-bdfd-b20b91ddb4c9",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-06-29T14:01:35",
+    "payload": {
+      "severity": "info",
+      "message": "Event 38493c59",
+      "value": 442.16
+    }
+  },
+  {
+    "id": "28c6d278-e8fb-41a2-9484-769be623a653",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-02-24T15:57:01",
+    "payload": {
+      "severity": "error",
+      "message": "Event 0193e846",
+      "value": 860.14
+    }
+  },
+  {
+    "id": "0ff047cc-8594-4d2c-abdd-d1cb34c3a7ce",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-09-08T13:05:30",
+    "payload": {
+      "severity": "error",
+      "message": "Event 4d336349",
+      "value": 498.38
+    }
+  },
+  {
+    "id": "cbe5f958-ba1f-4774-9871-4bb500886fb1",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "error",
+      "message": "Event 54f140f2",
+      "value": 249.54
+    }
+  },
+  {
+    "id": "ee7ddf22-2c61-4b13-96e0-75a7d72cfe1c",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-01-19T04:59:29",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 50202a75",
+      "value": 941.59
+    }
+  },
+  {
+    "id": "50f0c0fd-15bd-49f2-a852-f662b43a4320",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-10-18T04:39:53",
+    "payload": {
+      "severity": "warning",
+      "message": "Event f7d72e64",
+      "value": 694.7
+    }
+  },
+  {
+    "id": "edb10e5b-74e5-4462-96d8-913670c86ec8",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-09-18T04:27:05",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 0badb764",
+      "value": 236.9
+    }
+  },
+  {
+    "id": "cdb67a2c-dddb-4caa-b1cd-4d8bc2b1c6e1",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-09-24T17:24:16",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 3883bf78",
+      "value": 469.91
+    }
+  },
+  {
+    "id": "ef10e770-ce5c-4e97-99cb-73f12d473919",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-08-09T23:06:04",
+    "payload": {
+      "severity": "warning",
+      "message": "Event a4ff8aa0",
+      "value": 119.4
+    }
+  },
+  {
+    "id": "e3e52bf4-2cff-4fe7-a76b-e2a51080048e",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-01-21T08:04:55",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 16262f00",
+      "value": 65.91
+    }
+  },
+  {
+    "id": "7f7b05ce-ffd6-4209-8a11-5b536037154f",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-09-08T00:22:18",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 036f22b5",
+      "value": 308.93
+    }
+  },
+  {
+    "id": "d3bd1e6d-8276-400e-8956-e5d411e5943e",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-11-06T09:01:59",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 764da820",
+      "value": 294.91
+    }
+  },
+  {
+    "id": "5099e93f-712f-41b2-9b11-b33dd51ce69a",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-12-08T20:05:33",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 8039e716",
+      "value": 479.03
+    }
+  },
+  {
+    "id": "5c4e2197-2e16-45e9-ac66-9aeb8d5e9f20",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-05-06T13:28:47",
+    "payload": {
+      "severity": "info",
+      "message": "Event 979a2618",
+      "value": 280.3
+    }
+  },
+  {
+    "id": "aca7f030-7b53-4b4e-9467-99fa065abace",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "error",
+      "message": "Event 3babc0c0",
+      "value": 130.72
+    }
+  },
+  {
+    "id": "41123bf0-2a7f-4825-b355-fc805f820d58",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-07-25T17:12:59",
+    "payload": {
+      "severity": "warning",
+      "message": "Event e65b443f",
+      "value": 596.86
+    }
+  },
+  {
+    "id": "0a6a81ae-b06b-4fe2-a9cd-ba048fa26827",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "warning",
+      "message": "Event d274166d",
+      "value": 701.63
+    }
+  },
+  {
+    "id": "760ecb98-1259-400f-ba98-f49938a3c98d",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-02-13T10:44:46",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 09d45858",
+      "value": 945.05
+    }
+  },
+  {
+    "id": "5b54065b-5f6b-4ced-9fe2-927a80a9ee2e",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-01-01T00:01:28",
+    "payload": {
+      "severity": "warning",
+      "message": "Event d32352af",
+      "value": 782.39
+    }
+  },
+  {
+    "id": "30c63954-3064-415e-b155-fc26c7448074",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-08-07T13:53:22",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 26da2901",
+      "value": 795.88
+    }
+  },
+  {
+    "id": "b521135d-6c28-4f3b-8c7d-762110e1be72",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-08-15T23:16:49",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 9c0d58ab",
+      "value": 347.92
+    }
+  },
+  {
+    "id": "4725f172-e616-47e8-b6d3-eba0fc5e074b",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-06-26T10:54:10",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 9f1225e7",
+      "value": 722.44
+    }
+  },
+  {
+    "id": "c5361679-6bf5-4d77-89a3-001ee9ff674d",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-05-19T10:29:15",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 8aaafc10",
+      "value": 484.61
+    }
+  },
+  {
+    "id": "b735a135-bb3a-4b70-861c-06b1ea6aebd5",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-03-18T14:16:17",
+    "payload": {
+      "severity": "debug",
+      "message": "Event fff8f589",
+      "value": 997.26
+    }
+  },
+  {
+    "id": "e98d5ef2-40a3-4020-b114-270fc5069801",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-12-20T22:36:34",
+    "payload": {
+      "severity": "info",
+      "message": "Event 06bc06f2",
+      "value": 224.52
+    }
+  },
+  {
+    "id": "c473672b-faee-496b-ba41-f3104bbfacb7",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-12-25T12:44:39",
+    "payload": {
+      "severity": "error",
+      "message": "Event 464cd913",
+      "value": 864.61
+    }
+  },
+  {
+    "id": "b02fb9be-d3f6-4d9c-9839-74b657b76820",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-07-29T13:04:54",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 71411222",
+      "value": 523.94
+    }
+  },
+  {
+    "id": "d625304a-ec0c-427d-8f7e-506525e79851",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "info",
+      "message": "Event 3e16bda0",
+      "value": 43.53
+    }
+  },
+  {
+    "id": "2cefcd05-9040-455f-94f0-cad08d2ba67c",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-05-30T20:19:40",
+    "payload": {
+      "severity": "error",
+      "message": "Event d7b5ea1e",
+      "value": 255.0
+    }
+  },
+  {
+    "id": "bb4c26c3-e963-4e5c-9081-55200d33c3bc",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-08-21T15:54:13",
+    "payload": {
+      "severity": "error",
+      "message": "Event 1cc519d5",
+      "value": 19.93
+    }
+  },
+  {
+    "id": "a5148c9c-daf3-4d90-9462-aff06dfff4bb",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-11-22T01:23:48",
+    "payload": {
+      "severity": "critical",
+      "message": "Event c70538ca",
+      "value": 950.99
+    }
+  },
+  {
+    "id": "c846f850-9f49-4cfb-8f1d-c2e37e0c2bd9",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-09-08T00:19:52",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 036f22b5",
+      "value": 308.93
+    }
+  },
+  {
+    "id": "3af03775-1f76-40c1-9035-b1902cd28e55",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-05-28T02:34:22",
+    "payload": {
+      "severity": "debug",
+      "message": "Event fc9ff202",
+      "value": 358.96
+    }
+  },
+  {
+    "id": "9f409370-b7d2-49fe-8c71-8ea8815e3b74",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-04-05T17:43:29",
+    "payload": {
+      "severity": "warning",
+      "message": "Event eb9d018f",
+      "value": 558.09
+    }
+  },
+  {
+    "id": "343506a0-5543-46a7-8f89-662a66c6ef2f",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-06-22T11:52:36",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 77a96fac",
+      "value": 954.03
+    }
+  },
+  {
+    "id": "b1968e8a-f8cb-43e7-aaab-345a52d8446d",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-08-06T14:06:33",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 7ec6f178",
+      "value": 85.18
+    }
+  },
+  {
+    "id": "d3695549-bfde-4f50-8851-2204fe8e1809",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-03-20T18:28:50",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 55d0db6d",
+      "value": 488.83
+    }
+  },
+  {
+    "id": "800ad05d-7b83-4f6e-96a7-a9177b1a297e",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-04-08T23:44:42",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 3d14ed0d",
+      "value": 953.59
+    }
+  },
+  {
+    "id": "b781ee3a-5f19-4f1b-a626-8b4c9a0bc300",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-04-10T12:22:59",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 124e991e",
+      "value": 21.8
+    }
+  },
+  {
+    "id": "bf1c7444-34ca-4831-84dd-2e3ec79f8e60",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-01-01T23:03:02",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 122ff16f",
+      "value": 730.93
+    }
+  },
+  {
+    "id": "4444900c-4c2d-416b-831e-c689ac88be57",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-06-25T14:09:03",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 7e331e87",
+      "value": 337.5
+    }
+  },
+  {
+    "id": "04779afd-2de1-4518-92d5-47adfc054793",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-06-09T03:48:31",
+    "payload": {
+      "severity": "error",
+      "message": "Event 2039a4a6",
+      "value": 842.54
+    }
+  },
+  {
+    "id": "d68e5b91-6a1d-4f10-b67f-edaa973e40f4",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-03-08T00:21:56",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 9ca8568b",
+      "value": 247.74
+    }
+  },
+  {
+    "id": "519d7533-7a08-437d-bdc1-0d03ed5ba218",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-08-26T09:38:19",
+    "payload": {
+      "severity": "debug",
+      "message": "Event c1015dc1",
+      "value": 396.7
+    }
+  },
+  {
+    "id": "b5bc4930-07d9-420b-b3d0-6465c733e431",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-07-06T09:13:19",
+    "payload": {
+      "severity": "info",
+      "message": "Event b4b14afd",
+      "value": 243.73
+    }
+  },
+  {
+    "id": "9ce788b8-2d31-45d4-8e47-4d754cf7f2f3",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-03-21T15:18:35",
+    "payload": {
+      "severity": "info",
+      "message": "Event ee43247a",
+      "value": 308.31
+    }
+  },
+  {
+    "id": "409de0e0-e181-4374-ab2c-3aeb9524c4bb",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-12-09T02:06:23",
+    "payload": {
+      "severity": "error",
+      "message": "Event e78fc71d",
+      "value": 34.65
+    }
+  },
+  {
+    "id": "1fe3d187-23db-470e-98ae-710757d1cc45",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-06-09T03:46:26",
+    "payload": {
+      "severity": "error",
+      "message": "Event 2039a4a6",
+      "value": 842.54
+    }
+  },
+  {
+    "id": "0499189d-4afb-4fbc-927c-b784e990cae1",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-08-29T15:55:54",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 8ed896ff",
+      "value": 26.97
+    }
+  },
+  {
+    "id": "42f452ca-8113-4733-ae76-c2b570e3660a",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-09-15T23:53:32",
+    "payload": {
+      "severity": "info",
+      "message": "Event 7dd3e5ad",
+      "value": 326.18
+    }
+  },
+  {
+    "id": "702f5568-1cf5-43ae-a286-2129ef832936",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-04-08T01:16:08",
+    "payload": {
+      "severity": "info",
+      "message": "Event e4272e30",
+      "value": 114.09
+    }
+  },
+  {
+    "id": "b18fffa5-ab13-4c10-8d87-255d10b4411b",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "error",
+      "message": "Event f1c8255d",
+      "value": 205.78
+    }
+  },
+  {
+    "id": "bf52a7b7-0ac4-4ed6-a4bb-143a96a16d85",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-03-18T07:21:14",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 636daac1",
+      "value": 509.12
+    }
+  },
+  {
+    "id": "439b6c93-d204-4711-a742-69bc1428a74e",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-02-20T02:40:27",
+    "payload": {
+      "severity": "info",
+      "message": "Event ee26861b",
+      "value": 502.86
+    }
+  },
+  {
+    "id": "4e1c16ca-99b5-4380-9b20-270984e4412a",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-11-20T07:52:51",
+    "payload": {
+      "severity": "debug",
+      "message": "Event d9e9923b",
+      "value": 37.75
+    }
+  },
+  {
+    "id": "370c3aeb-ad5b-4037-981e-c2ad38982309",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-07-16T09:10:10",
+    "payload": {
+      "severity": "error",
+      "message": "Event 7468c515",
+      "value": 864.03
+    }
+  },
+  {
+    "id": "75e40503-fa2f-4b2c-9e35-99b455e37856",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 67685788",
+      "value": 234.77
+    }
+  },
+  {
+    "id": "e948176b-2f6d-4b45-8096-ae28cf89dd1d",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-06-11T23:27:05",
+    "payload": {
+      "severity": "error",
+      "message": "Event 4342464f",
+      "value": 884.55
+    }
+  },
+  {
+    "id": "d7b1f042-495d-40a6-887f-77c0078436ed",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-07-27T01:26:27",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 9b842d2e",
+      "value": 17.14
+    }
+  },
+  {
+    "id": "e548eba5-5375-4696-8757-bedf67fe04f5",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-08-10T06:00:43",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 362ea29d",
+      "value": 467.41
+    }
+  },
+  {
+    "id": "87afc646-96ea-4627-8e9a-267dbf6ee59c",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-09-15T05:35:29",
+    "payload": {
+      "severity": "info",
+      "message": "Event 908e17c3",
+      "value": 677.32
+    }
+  },
+  {
+    "id": "cd01f463-3a76-416f-89aa-d3f9407dd692",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-02-08T14:03:07",
+    "payload": {
+      "severity": "warning",
+      "message": "Event a8ca17b8",
+      "value": 544.47
+    }
+  },
+  {
+    "id": "2ea8ff63-1fbb-407b-9dd9-6699d8ce204f",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-12-12T19:36:48",
+    "payload": {
+      "severity": "debug",
+      "message": "Event dafdaeef",
+      "value": 80.58
+    }
+  },
+  {
+    "id": "678bbc47-3353-415f-b679-010dc13bfad8",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-08-06T14:07:12",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 7ec6f178",
+      "value": 85.18
+    }
+  },
+  {
+    "id": "b8c5d8a6-a1df-42a9-b9bb-0f8ba72fc8a2",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-11-29T05:17:47",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 6fcbcb4b",
+      "value": 985.49
+    }
+  },
+  {
+    "id": "08887241-70b1-4ef6-a79f-65d2a3dfc496",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-10-20T10:47:19",
+    "payload": {
+      "severity": "error",
+      "message": "Event 7a5791a6",
+      "value": 790.5
+    }
+  },
+  {
+    "id": "7e1f6649-599c-4d3f-bac6-e55aa24da061",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-01-28T04:12:11",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 92b2c7c2",
+      "value": 623.16
+    }
+  },
+  {
+    "id": "a0f5fccc-1b9e-47ef-b405-91e4558d7b41",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-07-16T04:28:51",
+    "payload": {
+      "severity": "warning",
+      "message": "Event c7d7b1fb",
+      "value": 820.55
+    }
+  },
+  {
+    "id": "a91db6ad-afc0-49b9-809f-9a98643f8e43",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-08-25T11:23:18",
+    "payload": {
+      "severity": "info",
+      "message": "Event ce44dc69",
+      "value": 872.82
+    }
+  },
+  {
+    "id": "bc10b024-3fee-4eea-8052-5c838f5dad4e",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-06-29T14:01:43",
+    "payload": {
+      "severity": "info",
+      "message": "Event 38493c59",
+      "value": 442.16
+    }
+  },
+  {
+    "id": "45c8e7bc-692e-4f61-9873-dbe594e1cb27",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-03-10T15:42:18",
+    "payload": {
+      "severity": "warning",
+      "message": "Event e438514f",
+      "value": 15.66
+    }
+  },
+  {
+    "id": "bb833428-7dd0-4a96-a442-95de7c12d3c5",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-05-09T08:09:51",
+    "payload": {
+      "severity": "info",
+      "message": "Event 6027aca2",
+      "value": 519.33
+    }
+  },
+  {
+    "id": "b527da4c-9fbd-49cf-865d-75fae0416f07",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-05-08T02:34:02",
+    "payload": {
+      "severity": "error",
+      "message": "Event e064f4a7",
+      "value": 379.84
+    }
+  },
+  {
+    "id": "03c12cbc-a5bc-4ddc-a123-d83c43d5b5fe",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-07-31T02:19:19",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 3f34c8ef",
+      "value": 897.81
+    }
+  },
+  {
+    "id": "120a6db1-8138-48c0-870a-c78862a6525d",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-06-29T10:50:08",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 418ec503",
+      "value": 987.89
+    }
+  },
+  {
+    "id": "ef52f2fc-b641-4c02-821b-3d0a1b4f58c7",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-04-12T22:12:25",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 89146d9c",
+      "value": 623.26
+    }
+  },
+  {
+    "id": "fd5af6ba-531d-4c72-a609-fe115cb3d227",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-04-02T21:55:59",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 996038a6",
+      "value": 439.87
+    }
+  },
+  {
+    "id": "81b42654-6578-491c-b6db-2cb7a7568a12",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-10-17T16:51:57",
+    "payload": {
+      "severity": "info",
+      "message": "Event e60ce892",
+      "value": 234.0
+    }
+  },
+  {
+    "id": "e1813866-2487-45ed-ae62-f5b810ffc02c",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-12-06T10:27:28",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 1d350221",
+      "value": 93.34
+    }
+  },
+  {
+    "id": "e90d1274-25c0-4cdd-a449-80525dddbbea",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-02-29T21:26:36",
+    "payload": {
+      "severity": "info",
+      "message": "Event 9f31e074",
+      "value": 711.68
+    }
+  },
+  {
+    "id": "eb5d9a8f-5022-4c03-8e10-7c0ee6459cdd",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-01-27T06:49:01",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 128948fb",
+      "value": 544.08
+    }
+  },
+  {
+    "id": "05a019aa-a5bb-401f-8df8-18267b3c0d80",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-11-01T03:10:16",
+    "payload": {
+      "severity": "info",
+      "message": "Event 1fcbae84",
+      "value": 918.77
+    }
+  },
+  {
+    "id": "34f096a3-1ccc-4417-b083-fae34a0873dc",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-08-06T06:00:29",
+    "payload": {
+      "severity": "debug",
+      "message": "Event f4ff5fab",
+      "value": 786.99
+    }
+  },
+  {
+    "id": "eb08a528-df4a-4b1d-bb23-b9ce92258d1c",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-11-03T17:38:39",
+    "payload": {
+      "severity": "error",
+      "message": "Event 914be22d",
+      "value": 495.33
+    }
+  },
+  {
+    "id": "83334a9e-ca09-4c7c-9a3b-16464fa78506",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-04-27T02:57:15",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 246c147c",
+      "value": 805.53
+    }
+  },
+  {
+    "id": "ce52e410-4be8-4987-90b8-a018e207ebef",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-02-09T04:25:31",
+    "payload": {
+      "severity": "debug",
+      "message": "Event bd10914e",
+      "value": 33.58
+    }
+  },
+  {
+    "id": "dfca523c-5628-446e-be8b-20fcf7a916d4",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-06-24T13:00:04",
+    "payload": {
+      "severity": "debug",
+      "message": "Event ab9c0663",
+      "value": 221.55
+    }
+  },
+  {
+    "id": "baa504f3-c145-473b-837d-3bea63427d9b",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-06-26T02:19:05",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 1133ff10",
+      "value": 60.45
+    }
+  },
+  {
+    "id": "dbe28f28-1bd8-4fb1-b5a8-b93c9b05b2e9",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-06-11T05:11:23",
+    "payload": {
+      "severity": "warning",
+      "message": "Event d2931fb1",
+      "value": 115.17
+    }
+  },
+  {
+    "id": "69ac9f87-c9b6-426c-9140-d55ebd0ab079",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-05-22T12:13:17",
+    "payload": {
+      "severity": "info",
+      "message": "Event c0bda1aa",
+      "value": 314.39
+    }
+  },
+  {
+    "id": "149da99c-fc8a-4a2d-9fec-4ee6399a53e8",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-08-25T00:35:15",
+    "payload": {
+      "severity": "error",
+      "message": "Event ceca001c",
+      "value": 440.1
+    }
+  },
+  {
+    "id": "40924de9-ef1c-40da-b4b5-a8446ed37c80",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-03-21T16:43:25",
+    "payload": {
+      "severity": "error",
+      "message": "Event adcc72a1",
+      "value": 264.65
+    }
+  },
+  {
+    "id": "ec75513f-52eb-47d6-8f0c-7f0c03ccb227",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-08-15T17:59:25",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 30ed1af7",
+      "value": 310.17
+    }
+  },
+  {
+    "id": "2567b455-7ae5-497e-9593-cd7c0c3f9cbe",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-04-04T16:58:19",
+    "payload": {
+      "severity": "info",
+      "message": "Event 4ffddc30",
+      "value": 569.85
+    }
+  },
+  {
+    "id": "52027a78-190d-4864-a0e7-f839a0b93299",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-12-10T20:07:09",
+    "payload": {
+      "severity": "info",
+      "message": "Event bc8e0aae",
+      "value": 160.9
+    }
+  },
+  {
+    "id": "0b9d15f4-8d9d-4789-aace-a39d1de7d45e",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-09-09T18:58:58",
+    "payload": {
+      "severity": "debug",
+      "message": "Event fa63ebe5",
+      "value": 720.84
+    }
+  },
+  {
+    "id": "3ad47815-aa60-4477-94e4-0228442c9db5",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-04-29T18:40:37",
+    "payload": {
+      "severity": "critical",
+      "message": "Event f14263a2",
+      "value": 220.52
+    }
+  },
+  {
+    "id": "355afa05-a407-4735-a421-d5cf364ce1c4",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-05-05T23:28:03",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 41a597d6",
+      "value": 596.22
+    }
+  },
+  {
+    "id": "2142c4c5-213f-4eb7-9f60-9e6169271aef",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-08-31T20:54:24",
+    "payload": {
+      "severity": "info",
+      "message": "Event f64deea2",
+      "value": 463.95
+    }
+  },
+  {
+    "id": "738dd9ce-08d0-48ec-b83f-99879b026b27",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-02-14T19:03:46",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 30fee46c",
+      "value": 178.57
+    }
+  },
+  {
+    "id": "3e516e46-b41e-42fc-9c06-f24ce9dea4dc",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-01-17T23:14:34",
+    "payload": {
+      "severity": "info",
+      "message": "Event f5f2aa07",
+      "value": 364.3
+    }
+  },
+  {
+    "id": "22694fb1-99a2-4164-bdbb-4297e5fa5566",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-05-23T00:33:32",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 754dd3cd",
+      "value": 971.86
+    }
+  },
+  {
+    "id": "e580f245-eb09-4e0a-9293-6a569dcc1b9e",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-06-20T19:18:59",
+    "payload": {
+      "severity": "error",
+      "message": "Event 7d7a1c17",
+      "value": 86.69
+    }
+  },
+  {
+    "id": "cf8ac85c-0d9a-459c-8c2d-c133a97c9fd8",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-06-29T10:47:19",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 418ec503",
+      "value": 987.89
+    }
+  },
+  {
+    "id": "f37b32b8-0f58-4ab8-a054-50f2a9a86cd9",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-01-25T13:13:31",
+    "payload": {
+      "severity": "info",
+      "message": "Event 9a35a3cf",
+      "value": 909.39
+    }
+  },
+  {
+    "id": "f5853977-6bab-4c9e-bce8-5841902be635",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-01-01T00:01:40",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 39719f2c",
+      "value": 28.95
+    }
+  },
+  {
+    "id": "eed277b9-3b61-41a8-88e7-1a9a2f666f47",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-07-22T17:59:05",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 28fc5be3",
+      "value": 283.0
+    }
+  },
+  {
+    "id": "97ce6a0b-82dd-4552-92fc-e86322dcb689",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-10-31T10:22:55",
+    "payload": {
+      "severity": "info",
+      "message": "Event 018b68f9",
+      "value": 16.28
+    }
+  },
+  {
+    "id": "84926c23-18c3-43be-8176-cae2d11649c2",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-02-10T05:42:13",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 289da540",
+      "value": 507.41
+    }
+  },
+  {
+    "id": "60eb8908-62aa-4715-a626-23aae2d331f5",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-06-23T23:25:55",
+    "payload": {
+      "severity": "info",
+      "message": "Event 36a6a701",
+      "value": 228.14
+    }
+  },
+  {
+    "id": "710e6718-28c1-4693-bd34-b88100cdc5de",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-03-28T12:21:48",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 24832d92",
+      "value": 857.54
+    }
+  },
+  {
+    "id": "af2c2a12-30b7-446f-b8ea-4b26279a54e6",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-03-28T07:22:33",
+    "payload": {
+      "severity": "error",
+      "message": "Event 859fa441",
+      "value": 908.41
+    }
+  },
+  {
+    "id": "3e4f49bf-d87c-4296-b140-fba3d80aa56f",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-03-11T10:54:15",
+    "payload": {
+      "severity": "error",
+      "message": "Event c9ad8e98",
+      "value": 566.32
+    }
+  },
+  {
+    "id": "5c40bf4f-e4a8-4bc1-b1ad-7916c7c7645a",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-10-14T13:51:44",
+    "payload": {
+      "severity": "error",
+      "message": "Event e433e100",
+      "value": 515.99
+    }
+  },
+  {
+    "id": "64253a71-08cb-4dec-b538-d616febb33fa",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-11-07T12:44:54",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 280aaf12",
+      "value": 794.85
+    }
+  },
+  {
+    "id": "f1417c1c-cca6-4c33-b950-a7b29cc5d546",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-04-20T05:04:51",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 00fe1b31",
+      "value": 663.85
+    }
+  },
+  {
+    "id": "d38c23f2-eee3-4abe-98ad-4ab580352896",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-09-12T02:25:12",
+    "payload": {
+      "severity": "error",
+      "message": "Event 6d0dbc2d",
+      "value": 266.53
+    }
+  },
+  {
+    "id": "b2885e24-ee47-431c-ada9-e3528c5629de",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-04-22T08:07:50",
+    "payload": {
+      "severity": "error",
+      "message": "Event 5b5c8d0c",
+      "value": 815.79
+    }
+  },
+  {
+    "id": "936ead43-fb80-4ddc-acf9-ce1a9d9a1312",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-06-15T03:22:42",
+    "payload": {
+      "severity": "error",
+      "message": "Event 52d279d1",
+      "value": 995.69
+    }
+  },
+  {
+    "id": "b28328de-05de-4de6-a85b-8d9a14d744b6",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-05-23T21:41:05",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 1f0f6ae6",
+      "value": 561.65
+    }
+  },
+  {
+    "id": "d72eddc2-8717-43ad-b204-1e67cb14bf60",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-02-07T09:42:37",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 2da1ea27",
+      "value": 148.9
+    }
+  },
+  {
+    "id": "b1f39796-13d1-4c87-a555-ad02d8563212",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-07-18T08:47:39",
+    "payload": {
+      "severity": "error",
+      "message": "Event 46a90b67",
+      "value": 831.05
+    }
+  },
+  {
+    "id": "7f30cfdf-60b4-42a7-8572-f943473e423d",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-12-04T15:29:59",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 825b834d",
+      "value": 186.96
+    }
+  },
+  {
+    "id": "4c9dec69-99e3-495f-a66c-f9ec10638297",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-05-18T16:21:22",
+    "payload": {
+      "severity": "critical",
+      "message": "Event ab7895b7",
+      "value": 344.8
+    }
+  },
+  {
+    "id": "a3b66e05-a7b4-4b99-a404-51fd335b2e6d",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-10-03T15:20:01",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 7f0c5d6a",
+      "value": 627.53
+    }
+  },
+  {
+    "id": "15b9ca8a-70c3-4edd-971d-1d8f1eeddf21",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-02-13T18:50:49",
+    "payload": {
+      "severity": "error",
+      "message": "Event 6d444b90",
+      "value": 499.58
+    }
+  },
+  {
+    "id": "d7fa0f15-ddf8-4ff5-ab9b-e0fd22ada3c0",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-02-03T03:39:12",
+    "payload": {
+      "severity": "critical",
+      "message": "Event f1550f98",
+      "value": 431.88
+    }
+  },
+  {
+    "id": "7be15e35-e043-4e4f-9d38-c156ad896281",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-06-16T05:38:02",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 88f3b278",
+      "value": 136.12
+    }
+  },
+  {
+    "id": "553b8929-2b8e-451c-8766-b49bce636353",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-06-26T09:10:58",
+    "payload": {
+      "severity": "critical",
+      "message": "Event a4a65533",
+      "value": 368.92
+    }
+  },
+  {
+    "id": "a71b8acb-3e58-4be9-8956-9ea82911448d",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-01-07T16:43:07",
+    "payload": {
+      "severity": "critical",
+      "message": "Event a96ba236",
+      "value": 294.24
+    }
+  },
+  {
+    "id": "65fca12a-893f-4776-840b-e12a509a28f5",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-05-06T05:21:05",
+    "payload": {
+      "severity": "error",
+      "message": "Event 912858be",
+      "value": 487.55
+    }
+  },
+  {
+    "id": "1006277c-8432-42c7-842f-55dfad2437d6",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-07-18T07:48:59",
+    "payload": {
+      "severity": "info",
+      "message": "Event 2df6c758",
+      "value": 456.8
+    }
+  },
+  {
+    "id": "1e1873c5-e5d6-4f4c-81f6-15fd679cae21",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-06-06T20:13:58",
+    "payload": {
+      "severity": "info",
+      "message": "Event efd3c0e6",
+      "value": 555.18
+    }
+  },
+  {
+    "id": "10136576-a32b-4893-9d69-e0d0c3ea755d",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-05-19T15:16:06",
+    "payload": {
+      "severity": "error",
+      "message": "Event 3a24ca08",
+      "value": 62.12
+    }
+  },
+  {
+    "id": "87863e94-a572-4401-b273-b8f87a2bcef1",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-07-11T05:27:12",
+    "payload": {
+      "severity": "info",
+      "message": "Event e9c5c2bb",
+      "value": 684.7
+    }
+  },
+  {
+    "id": "56d21986-568f-4cdb-a02a-911442113c49",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-02-01T05:46:20",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 796fcd46",
+      "value": 39.86
+    }
+  },
+  {
+    "id": "3655be76-d72b-4f27-b86a-52a22cf59214",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-07-04T20:14:01",
+    "payload": {
+      "severity": "error",
+      "message": "Event bcf35e5c",
+      "value": 811.5
+    }
+  },
+  {
+    "id": "0eb15ce8-ca64-428f-a460-461f44949037",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-07-27T02:36:50",
+    "payload": {
+      "severity": "error",
+      "message": "Event 346fc832",
+      "value": 191.54
+    }
+  },
+  {
+    "id": "9579ba43-a312-4086-a5b3-efb2bf6339bd",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-12-28T16:48:22",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 4f19f9ac",
+      "value": 131.98
+    }
+  },
+  {
+    "id": "7c5123cc-abc4-494c-961c-7dfb39d9fe5d",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-09-22T05:28:52",
+    "payload": {
+      "severity": "error",
+      "message": "Event f59239d3",
+      "value": 762.73
+    }
+  },
+  {
+    "id": "6e11037f-7212-4d37-b404-2b9bf0be7861",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-10-16T15:24:05",
+    "payload": {
+      "severity": "error",
+      "message": "Event 85488bd9",
+      "value": 578.31
+    }
+  },
+  {
+    "id": "799f63de-57e8-431d-b3c7-f1d46c657edc",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-02-05T21:49:36",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 1c587aca",
+      "value": 724.58
+    }
+  },
+  {
+    "id": "c8ea4cf3-c3f6-42e0-94fe-4724c466724e",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-05-20T05:55:41",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 0dc7a757",
+      "value": 944.22
+    }
+  },
+  {
+    "id": "9c2c67c6-dbbc-4128-8dd9-7f8c1d4643a8",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-09-29T08:23:11",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 8de38d6c",
+      "value": 382.54
+    }
+  },
+  {
+    "id": "9b40889b-160c-4c07-91b8-42c61b1b73d1",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-01-26T12:49:00",
+    "payload": {
+      "severity": "warning",
+      "message": "Event f05eb3a2",
+      "value": 398.16
+    }
+  },
+  {
+    "id": "d61ca60c-18ba-428b-9f67-171d0abb0870",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-09-21T08:50:04",
+    "payload": {
+      "severity": "error",
+      "message": "Event dd5ccea3",
+      "value": 31.57
+    }
+  },
+  {
+    "id": "dc559703-6e50-4286-bc1c-bc92826f44b5",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-04-02T15:29:00",
+    "payload": {
+      "severity": "error",
+      "message": "Event 22a8313e",
+      "value": 473.56
+    }
+  },
+  {
+    "id": "6baabd35-e394-4fc7-9bd4-d21123918fb5",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-12-23T04:52:31",
+    "payload": {
+      "severity": "warning",
+      "message": "Event c1132b10",
+      "value": 88.13
+    }
+  },
+  {
+    "id": "092c16d5-931c-4d0d-af87-c9406cf99138",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-06-03T04:15:27",
+    "payload": {
+      "severity": "info",
+      "message": "Event f26838c4",
+      "value": 186.31
+    }
+  },
+  {
+    "id": "30743f5a-c4fb-4089-b1f6-3040d0039bae",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-02-17T03:11:59",
+    "payload": {
+      "severity": "error",
+      "message": "Event da05f046",
+      "value": 792.07
+    }
+  },
+  {
+    "id": "8642c9c0-bf78-4cf1-b694-eeb983440fbb",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-09-06T01:27:53",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 28798e36",
+      "value": 524.32
+    }
+  },
+  {
+    "id": "c1512b2d-27db-4df3-9177-e700ff9e568f",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-10-03T18:11:03",
+    "payload": {
+      "severity": "debug",
+      "message": "Event e005db58",
+      "value": 767.11
+    }
+  },
+  {
+    "id": "a3ec3b65-2d57-42cd-8a01-d29f7c2b6616",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-03-06T04:49:26",
+    "payload": {
+      "severity": "critical",
+      "message": "Event b318edf3",
+      "value": 821.66
+    }
+  },
+  {
+    "id": "4421febc-3c93-4a9b-b512-0f9476f02082",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-05-31T00:24:42",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 112a75fc",
+      "value": 668.87
+    }
+  },
+  {
+    "id": "d874f7e5-9615-48c9-86d8-4fb51e350140",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-03-26T20:09:54",
+    "payload": {
+      "severity": "info",
+      "message": "Event 7fe27f2f",
+      "value": 374.12
+    }
+  },
+  {
+    "id": "5a13412e-defe-45c0-8cf0-74e9a3eefa83",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 91935256",
+      "value": 862.11
+    }
+  },
+  {
+    "id": "595bf965-8e56-4ffe-a9e5-d5fc5651d61d",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-11-06T02:41:17",
+    "payload": {
+      "severity": "error",
+      "message": "Event 92e2575d",
+      "value": 109.93
+    }
+  },
+  {
+    "id": "dbb60470-caf9-4f8d-9c7a-7400a54881bd",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-09-14T00:21:12",
+    "payload": {
+      "severity": "debug",
+      "message": "Event daf8a4da",
+      "value": 132.99
+    }
+  },
+  {
+    "id": "d0e38536-7bed-4562-bb16-b9fa7879b9c8",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-04-20T03:16:44",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 9d59172c",
+      "value": 547.31
+    }
+  },
+  {
+    "id": "649cc614-2ff4-4a49-a068-30725dd8e02e",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-03-22T02:59:14",
+    "payload": {
+      "severity": "warning",
+      "message": "Event a6a8bdca",
+      "value": 303.19
+    }
+  },
+  {
+    "id": "7dc684d9-e7b5-47cd-bfee-bb5b15cac45a",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-04-26T07:13:34",
+    "payload": {
+      "severity": "critical",
+      "message": "Event a1898cb9",
+      "value": 45.99
+    }
+  },
+  {
+    "id": "d1e57ca3-65df-4fc5-b785-6c69b0d1a6a7",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-06-06T18:09:13",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 006ea983",
+      "value": 513.09
+    }
+  },
+  {
+    "id": "5e528684-4b26-4b77-91df-ad65b403a15e",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-08-15T12:45:06",
+    "payload": {
+      "severity": "info",
+      "message": "Event 100b3cf8",
+      "value": 85.69
+    }
+  },
+  {
+    "id": "a0a8c9ef-8c73-4af9-aa5c-1052e4f79146",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-11-11T21:08:18",
+    "payload": {
+      "severity": "error",
+      "message": "Event cf6a6e09",
+      "value": 641.58
+    }
+  },
+  {
+    "id": "9409187a-da99-4162-9624-0947b7c2f588",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-11-06T10:24:40",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 635faf8b",
+      "value": 436.95
+    }
+  },
+  {
+    "id": "82ce64be-d797-47d7-bef4-84df8168efcf",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-06-29T14:00:52",
+    "payload": {
+      "severity": "info",
+      "message": "Event 38493c59",
+      "value": 442.16
+    }
+  },
+  {
+    "id": "fe22fd2f-e9be-44bb-8f47-85faa263a6d5",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-06-15T10:58:16",
+    "payload": {
+      "severity": "error",
+      "message": "Event ee1f744c",
+      "value": 866.85
+    }
+  },
+  {
+    "id": "a9a7275d-dc54-40b8-8f06-33186a475c0e",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-06-26T10:52:42",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 9f1225e7",
+      "value": 722.44
+    }
+  },
+  {
+    "id": "69889f24-cdb3-4bfc-bac1-6b6d2d7fb723",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-06-13T18:50:45",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 5dbe8974",
+      "value": 456.84
+    }
+  },
+  {
+    "id": "a98b3c60-d81e-4e62-b342-f42af859f193",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-01-22T01:13:07",
+    "payload": {
+      "severity": "error",
+      "message": "Event a7e8a679",
+      "value": 518.44
+    }
+  },
+  {
+    "id": "3985090a-6f4b-4fd1-97b3-6fa20a45a6e5",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "info",
+      "message": "Event ff1d4251",
+      "value": 93.21
+    }
+  },
+  {
+    "id": "1ddb4ad9-e3e6-4e37-ab8d-0309b319b7a1",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-11-27T04:55:01",
+    "payload": {
+      "severity": "critical",
+      "message": "Event bcda80ef",
+      "value": 452.04
+    }
+  },
+  {
+    "id": "a8a0a46e-f6fa-4cb4-bff5-eacf3d0f7678",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-09-12T13:29:33",
+    "payload": {
+      "severity": "error",
+      "message": "Event 60929c8c",
+      "value": 119.44
+    }
+  },
+  {
+    "id": "06fd6e4d-3917-4411-9b39-bbc7586e5810",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-12-25T12:49:23",
+    "payload": {
+      "severity": "error",
+      "message": "Event 464cd913",
+      "value": 864.61
+    }
+  },
+  {
+    "id": "1965daff-7eb5-4d44-82a4-e9deab3beb41",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-09-24T10:56:38",
+    "payload": {
+      "severity": "warning",
+      "message": "Event a823edea",
+      "value": 699.73
+    }
+  },
+  {
+    "id": "bd2a5ecc-7d6f-446d-a27b-df043110f7d9",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-05-08T06:34:04",
+    "payload": {
+      "severity": "info",
+      "message": "Event 18aa02bc",
+      "value": 100.54
+    }
+  },
+  {
+    "id": "4dfdd281-e333-4a0b-a1fd-d6eb7708d1e4",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-05-14T07:38:39",
+    "payload": {
+      "severity": "critical",
+      "message": "Event e88427dc",
+      "value": 97.69
+    }
+  },
+  {
+    "id": "646f1827-810c-40ae-9f52-488f62a72c48",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-09-09T00:17:27",
+    "payload": {
+      "severity": "error",
+      "message": "Event 87cbd515",
+      "value": 51.79
+    }
+  },
+  {
+    "id": "4de87e5d-46e1-44d6-ae92-7782b176fdcf",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-10-08T16:30:41",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 9c1ab020",
+      "value": 596.91
+    }
+  },
+  {
+    "id": "8a7522c6-a26f-4c89-8b7a-919ee00e9cff",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-03-14T18:46:53",
+    "payload": {
+      "severity": "info",
+      "message": "Event edb7c11b",
+      "value": 697.2
+    }
+  },
+  {
+    "id": "ba0fbff9-e000-4370-90e9-e010fb33fe9c",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-02-07T13:08:12",
+    "payload": {
+      "severity": "info",
+      "message": "Event cae04205",
+      "value": 373.2
+    }
+  },
+  {
+    "id": "5ac95b9d-7218-44c6-94fb-00409b0f9599",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-07-31T19:08:41",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 013b65e1",
+      "value": 303.87
+    }
+  },
+  {
+    "id": "45d16f69-c205-4127-996b-fae48f2a2b93",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-06-28T06:37:51",
+    "payload": {
+      "severity": "error",
+      "message": "Event e36a97fd",
+      "value": 438.45
+    }
+  },
+  {
+    "id": "5e15ed7c-b98c-46ad-b1b1-efbf292fa612",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-11-20T06:25:12",
+    "payload": {
+      "severity": "error",
+      "message": "Event 7bba06c1",
+      "value": 548.8
+    }
+  },
+  {
+    "id": "bafd7357-d65f-446f-9cf9-ac8987d42b71",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-04-02T15:24:00",
+    "payload": {
+      "severity": "error",
+      "message": "Event 22a8313e",
+      "value": 473.56
+    }
+  },
+  {
+    "id": "8d34767f-45c3-4353-974c-fa96fe20b08e",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-03-11T10:49:20",
+    "payload": {
+      "severity": "error",
+      "message": "Event c9ad8e98",
+      "value": 566.32
+    }
+  },
+  {
+    "id": "f74e855b-9907-4209-8c9c-7e3c98ead5f1",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-04-20T15:39:15",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 8cd95dd0",
+      "value": 847.89
+    }
+  },
+  {
+    "id": "315fc17d-34e5-4721-894b-624e4f3a12cb",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-07-02T02:28:58",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 2af8aa75",
+      "value": 619.55
+    }
+  },
+  {
+    "id": "addd2226-cb08-4082-8432-0c6f71432bbf",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-10-17T09:23:37",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 90c8c35d",
+      "value": 373.62
+    }
+  },
+  {
+    "id": "f4e28fff-059f-42ef-9a46-3a10fcec373d",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-01-28T04:17:07",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 92b2c7c2",
+      "value": 623.16
+    }
+  },
+  {
+    "id": "8676da52-8a3a-40eb-8e72-58182763ce9d",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-02-05T13:01:56",
+    "payload": {
+      "severity": "critical",
+      "message": "Event c5d2ca96",
+      "value": 942.96
+    }
+  },
+  {
+    "id": "efd25f64-7a1d-4956-9541-ed297ae482e0",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-04-21T16:54:32",
+    "payload": {
+      "severity": "critical",
+      "message": "Event c14df548",
+      "value": 346.36
+    }
+  },
+  {
+    "id": "fc7e3247-f427-4d2b-99a3-8bcec98578cd",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-05-02T13:33:58",
+    "payload": {
+      "severity": "warning",
+      "message": "Event b6052a6b",
+      "value": 515.38
+    }
+  },
+  {
+    "id": "438441be-5a8d-4b8a-bc3e-8149a02cc64b",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 9a25bbeb",
+      "value": 418.78
+    }
+  },
+  {
+    "id": "0ae7c175-d015-4d1f-a1a0-1b7ffc5f4425",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-04-06T05:32:11",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 13c613cb",
+      "value": 644.62
+    }
+  },
+  {
+    "id": "954df90b-1a0d-4992-9e84-23c531141717",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-09-19T23:48:23",
+    "payload": {
+      "severity": "warning",
+      "message": "Event ce0a395a",
+      "value": 260.17
+    }
+  },
+  {
+    "id": "841941d5-ee54-49e3-b23b-4ea175a90b24",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-03-02T08:09:28",
+    "payload": {
+      "severity": "info",
+      "message": "Event 02f7253d",
+      "value": 652.89
+    }
+  },
+  {
+    "id": "150a3a85-fdfd-4666-8c7c-b61936ff3103",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 97d35f43",
+      "value": 602.78
+    }
+  },
+  {
+    "id": "85306ed9-4724-4438-8aaf-6f564ffc317e",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-07-06T03:08:50",
+    "payload": {
+      "severity": "warning",
+      "message": "Event cbc2e7de",
+      "value": 746.56
+    }
+  },
+  {
+    "id": "0deb8a14-1510-4d03-97a1-a5e785fadac6",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-01-01T00:00:33",
+    "payload": {
+      "severity": "info",
+      "message": "Event 3e16bda0",
+      "value": 43.53
+    }
+  },
+  {
+    "id": "a38f85a0-10c2-4a09-94ff-c2c588cbec3a",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-07-09T03:47:40",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 57f3eba2",
+      "value": 140.3
+    }
+  },
+  {
+    "id": "ec66f9aa-13c5-4e06-a648-ad3c75e7373a",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-05-09T03:17:53",
+    "payload": {
+      "severity": "error",
+      "message": "Event f6adc5c7",
+      "value": 44.34
+    }
+  },
+  {
+    "id": "ca72810c-e5d3-4fae-9a57-4481921f40ee",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-04-05T17:48:01",
+    "payload": {
+      "severity": "warning",
+      "message": "Event eb9d018f",
+      "value": 558.09
+    }
+  },
+  {
+    "id": "678680d4-4662-4a0b-a0b8-731d32e80126",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-07-04T12:29:20",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 5e2b2265",
+      "value": 228.95
+    }
+  },
+  {
+    "id": "29a32cb4-e35d-4b2d-a5e9-a521afb2879c",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-01-30T19:11:05",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 78827386",
+      "value": 615.01
+    }
+  },
+  {
+    "id": "d8e5593a-6b0c-46c4-95f2-9ecd540d8ffa",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-12-24T21:47:19",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 2f8e94c6",
+      "value": 684.43
+    }
+  },
+  {
+    "id": "54560ec4-ca4a-42b6-baf1-bde4be582301",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-12-26T17:51:21",
+    "payload": {
+      "severity": "warning",
+      "message": "Event b6604237",
+      "value": 575.8
+    }
+  },
+  {
+    "id": "a1d2d2b5-ee8e-4c45-8d42-131a4524dfbf",
+    "source": "batch-ingest",
+    "event_type": "transaction",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 5c3fd1d1",
+      "value": 704.7
+    }
+  },
+  {
+    "id": "87ce6c11-b33a-4825-91a6-08a6d3c7baee",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-03-30T05:34:44",
+    "payload": {
+      "severity": "error",
+      "message": "Event 794ae2aa",
+      "value": 901.27
+    }
+  },
+  {
+    "id": "b8c2a97d-af89-4fe8-8135-1ef07a9a2757",
+    "source": "mobile-api",
+    "event_type": "user_action",
+    "timestamp": "2024-04-14T10:30:23",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 920a0a7a",
+      "value": 268.41
+    }
+  },
+  {
+    "id": "aa275807-5231-44ef-a554-d27b4376c94b",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-04-28T14:20:52",
+    "payload": {
+      "severity": "critical",
+      "message": "Event c3473f29",
+      "value": 183.04
+    }
+  },
+  {
+    "id": "cdcea6a3-2237-4d6c-9a06-9539fc8d3964",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-02-05T11:13:41",
+    "payload": {
+      "severity": "error",
+      "message": "Event b6a01aba",
+      "value": 961.91
+    }
+  },
+  {
+    "id": "945305e4-7e63-4628-9b9c-e45fc1c939a4",
+    "source": "partner-feed",
+    "event_type": "transaction",
+    "timestamp": "2024-06-12T04:01:17",
+    "payload": {
+      "severity": "info",
+      "message": "Event d2d4aaa4",
+      "value": 904.84
+    }
+  },
+  {
+    "id": "e978bf1a-b771-4083-b63f-9d79e7866f1d",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-03-12T18:17:08",
+    "payload": {
+      "severity": "error",
+      "message": "Event 47eca883",
+      "value": 477.45
+    }
+  },
+  {
+    "id": "cafde18e-78a3-49f4-aee6-bb577ee687c3",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-06-24T12:59:45",
+    "payload": {
+      "severity": "debug",
+      "message": "Event ab9c0663",
+      "value": 221.55
+    }
+  },
+  {
+    "id": "67e0a44e-e78f-4ec0-aaef-9b43129307ab",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-06-15T08:50:42",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 2a600f82",
+      "value": 68.96
+    }
+  },
+  {
+    "id": "1c4cb052-8727-42ce-8bc0-d5efa4980f19",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-12-06T09:12:17",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 5b5c6ce1",
+      "value": 530.85
+    }
+  },
+  {
+    "id": "9e890c9e-3824-4caa-9a10-1ccd998f5da2",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-01-13T02:25:09",
+    "payload": {
+      "severity": "critical",
+      "message": "Event ec79538f",
+      "value": 998.59
+    }
+  },
+  {
+    "id": "a0bf7ff9-9741-4609-a24e-c4fb434dadb0",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-03-04T22:42:54",
+    "payload": {
+      "severity": "error",
+      "message": "Event af049bda",
+      "value": 322.66
+    }
+  },
+  {
+    "id": "7d0f9c29-613f-4849-b4c0-49633dc48bca",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-09-20T17:19:01",
+    "payload": {
+      "severity": "info",
+      "message": "Event 1cd753c9",
+      "value": 948.82
+    }
+  },
+  {
+    "id": "d7a80537-fd7c-4436-b031-4fcc2c501734",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-02-01T19:25:44",
+    "payload": {
+      "severity": "info",
+      "message": "Event 02afc4aa",
+      "value": 19.38
+    }
+  },
+  {
+    "id": "71e28fb9-bc96-43d9-8169-64a7e504ce1f",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-05-29T02:56:19",
+    "payload": {
+      "severity": "info",
+      "message": "Event cb35fc44",
+      "value": 399.65
+    }
+  },
+  {
+    "id": "8971279f-b462-48cd-8daf-aa8af7c138af",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-03-24T07:56:28",
+    "payload": {
+      "severity": "debug",
+      "message": "Event ef538b95",
+      "value": 285.58
+    }
+  },
+  {
+    "id": "195b55c5-90af-403e-a6d5-5a40e203b6a1",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-03-31T16:57:35",
+    "payload": {
+      "severity": "info",
+      "message": "Event 31b7415d",
+      "value": 43.65
+    }
+  },
+  {
+    "id": "0909ef21-b963-461d-9424-b7d0ab3be7d3",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-05-28T15:17:48",
+    "payload": {
+      "severity": "info",
+      "message": "Event 71ef05c4",
+      "value": 172.81
+    }
+  },
+  {
+    "id": "90ffd096-89b4-4f2f-aeab-7ce54850523d",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-10-03T06:44:15",
+    "payload": {
+      "severity": "debug",
+      "message": "Event ac2643f8",
+      "value": 851.17
+    }
+  },
+  {
+    "id": "76c392eb-48e8-4bc8-9be8-e19e5f182f3e",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-02-20T02:41:06",
+    "payload": {
+      "severity": "info",
+      "message": "Event ee26861b",
+      "value": 502.86
+    }
+  },
+  {
+    "id": "8b5952a6-fe1d-44f4-9675-f3fc132d4ba9",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-02-29T21:44:23",
+    "payload": {
+      "severity": "error",
+      "message": "Event 3dea523a",
+      "value": 180.85
+    }
+  },
+  {
+    "id": "aa1d7450-0f5e-47d6-9840-8e54e983ec1c",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-10-23T06:29:19",
+    "payload": {
+      "severity": "debug",
+      "message": "Event cd83a478",
+      "value": 377.21
+    }
+  },
+  {
+    "id": "8167d22f-7151-4bf0-9f8e-2f34c120b671",
+    "source": "web-app",
+    "event_type": "user_action",
+    "timestamp": "2024-07-13T23:02:43",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 35528444",
+      "value": 235.78
+    }
+  },
+  {
+    "id": "a7539b1d-35b9-45dc-ad5c-f33bfe97d238",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-05-08T06:33:34",
+    "payload": {
+      "severity": "info",
+      "message": "Event 18aa02bc",
+      "value": 100.54
+    }
+  },
+  {
+    "id": "2f1d3b5c-16ef-4d14-94e1-8c7dea09f92b",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-09-22T23:13:59",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 41283e82",
+      "value": 257.33
+    }
+  },
+  {
+    "id": "7d608642-ae48-4c58-acc5-ec0a7c7fd125",
+    "source": "internal-cron",
+    "event_type": "transaction",
+    "timestamp": "2024-06-15T08:46:20",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 2a600f82",
+      "value": 68.96
+    }
+  },
+  {
+    "id": "bd08f07f-54fa-4f09-8c0e-7259ff7cb495",
+    "source": "mobile-api",
+    "event_type": "system",
+    "timestamp": "2024-01-01T00:04:30",
+    "payload": {
+      "severity": "debug",
+      "message": "Event f5ca4595",
+      "value": 126.58
+    }
+  },
+  {
+    "id": "d48351de-2ded-480b-804a-00345dfd4af4",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-10-12T01:19:44",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 1cf290bc",
+      "value": 127.35
+    }
+  },
+  {
+    "id": "84bc7e38-b62e-4c3f-ab93-b116bc30ab1a",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-09-23T10:29:40",
+    "payload": {
+      "severity": "warning",
+      "message": "Event accb9ccb",
+      "value": 826.39
+    }
+  },
+  {
+    "id": "d04de06a-a27d-4934-b793-41b1d7a7dce4",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-12-02T01:15:01",
+    "payload": {
+      "severity": "error",
+      "message": "Event 887094d4",
+      "value": 813.48
+    }
+  },
+  {
+    "id": "44c09a2b-0e5b-4b77-b48f-b747a0a283be",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-02-29T21:11:41",
+    "payload": {
+      "severity": "error",
+      "message": "Event aaf5b3d3",
+      "value": 658.73
+    }
+  },
+  {
+    "id": "0c8acd85-8c94-414f-aa32-8715acb48186",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-04-21T21:18:04",
+    "payload": {
+      "severity": "error",
+      "message": "Event 1a2d34e0",
+      "value": 301.15
+    }
+  },
+  {
+    "id": "e91e6e11-67f1-4899-b984-2a7f8ac0276a",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-09-02T14:24:49",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 7b8e7832",
+      "value": 627.81
+    }
+  },
+  {
+    "id": "4eea09a0-526e-4c92-83fa-13982f2a9bdc",
+    "source": "partner-feed",
+    "event_type": "audit",
+    "timestamp": "2024-04-16T02:05:58",
+    "payload": {
+      "severity": "error",
+      "message": "Event 8aa2dd72",
+      "value": 754.94
+    }
+  },
+  {
+    "id": "4e7f59a9-ed59-44d5-b26d-adf9c1092f56",
+    "source": "web-app",
+    "event_type": "system",
+    "timestamp": "2024-09-15T23:56:04",
+    "payload": {
+      "severity": "info",
+      "message": "Event 7dd3e5ad",
+      "value": 326.18
+    }
+  },
+  {
+    "id": "703c1ae3-dcbe-4536-9194-269383a2dfa8",
+    "source": "web-app",
+    "event_type": "security",
+    "timestamp": "2024-05-14T15:31:33",
+    "payload": {
+      "severity": "debug",
+      "message": "Event eed42d4e",
+      "value": 517.22
+    }
+  },
+  {
+    "id": "07f5ef91-67f0-48f0-a94f-ff2c22fcd1f9",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-08-06T21:18:03",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 1f37cee8",
+      "value": 825.24
+    }
+  },
+  {
+    "id": "4371b7d2-5005-471d-a2db-0f39afdf7251",
+    "source": "internal-cron",
+    "event_type": "security",
+    "timestamp": "2024-09-15T05:39:28",
+    "payload": {
+      "severity": "info",
+      "message": "Event 908e17c3",
+      "value": 677.32
+    }
+  },
+  {
+    "id": "522b73c0-8d14-4724-8599-6df53ebd237b",
+    "source": "batch-ingest",
+    "event_type": "audit",
+    "timestamp": "2024-02-10T05:37:38",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 289da540",
+      "value": 507.41
+    }
+  },
+  {
+    "id": "f5440971-677d-46a0-9c81-1c38846a30f9",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 88b20344",
+      "value": 934.76
+    }
+  },
+  {
+    "id": "3ecf6afb-ded3-454e-afb9-4bbea755903b",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-09-01T16:13:59",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 4f82a5f6",
+      "value": 799.31
+    }
+  },
+  {
+    "id": "a25e0e21-3a68-4ae2-8825-c4502e24ad52",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-08-24T16:52:30",
+    "payload": {
+      "severity": "info",
+      "message": "Event b68e7906",
+      "value": 619.71
+    }
+  },
+  {
+    "id": "a0d3f7be-9f5b-40e9-a130-1407bc7963be",
+    "source": "partner-feed",
+    "event_type": "system",
+    "timestamp": "2024-11-04T21:09:27",
+    "payload": {
+      "severity": "error",
+      "message": "Event 22f44b83",
+      "value": 222.92
+    }
+  },
+  {
+    "id": "69146e40-97e9-427d-b7e2-839a0acaacae",
+    "source": "internal-cron",
+    "event_type": "user_action",
+    "timestamp": "2024-11-16T16:24:15",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 1c5dff04",
+      "value": 268.4
+    }
+  },
+  {
+    "id": "ea45ac39-2217-4460-af79-47dcc30778d7",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-06-17T12:54:26",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 468d358f",
+      "value": 760.37
+    }
+  },
+  {
+    "id": "fe653482-2a5f-4394-9d8d-00845f214aa4",
+    "source": "batch-ingest",
+    "event_type": "system",
+    "timestamp": "2024-11-08T12:14:13",
+    "payload": {
+      "severity": "info",
+      "message": "Event 5ab92b1f",
+      "value": 297.43
+    }
+  },
+  {
+    "id": "36fd9170-caab-4913-adc3-b39c6e534b1b",
+    "source": "mobile-api",
+    "event_type": "security",
+    "timestamp": "2024-03-01T05:50:09",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 0ad233e5",
+      "value": 188.48
+    }
+  },
+  {
+    "id": "0953a5c1-b0ef-4f3e-8ccf-a2219df1c031",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-08-22T03:38:26",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 7daa818b",
+      "value": 873.62
+    }
+  },
+  {
+    "id": "6410667b-de7e-4923-80e1-9b9447ee4114",
+    "source": "web-app",
+    "event_type": "transaction",
+    "timestamp": "2024-05-27T06:59:48",
+    "payload": {
+      "severity": "info",
+      "message": "Event 7cb2f56a",
+      "value": 552.7
+    }
+  },
+  {
+    "id": "47257db4-3376-49b4-955a-6abc7d5c1cdc",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-07-16T21:05:40",
+    "payload": {
+      "severity": "error",
+      "message": "Event 90ff6e3a",
+      "value": 747.84
+    }
+  },
+  {
+    "id": "dafb1abb-35fd-41f5-b274-2fd346e2b727",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-05-15T23:17:56",
+    "payload": {
+      "severity": "debug",
+      "message": "Event 19e32085",
+      "value": 367.56
+    }
+  },
+  {
+    "id": "cdcd6598-1df5-4036-bc73-f18ade9802b6",
+    "source": "partner-feed",
+    "event_type": "user_action",
+    "timestamp": "2024-03-18T00:34:03",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 65225d6d",
+      "value": 592.1
+    }
+  },
+  {
+    "id": "24ec0f69-391a-4767-8987-d358376e5d51",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-10-09T08:53:20",
+    "payload": {
+      "severity": "info",
+      "message": "Event 1c388255",
+      "value": 78.93
+    }
+  },
+  {
+    "id": "de147210-e331-4b74-bb4e-46f6cd5fa975",
+    "source": "mobile-api",
+    "event_type": "audit",
+    "timestamp": "2024-01-01T00:00:00",
+    "payload": {
+      "severity": "warning",
+      "message": "Event a67225c7",
+      "value": 582.51
+    }
+  },
+  {
+    "id": "4707335d-fc26-4b2b-a71a-5ce854060ed3",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-12-30T06:48:51",
+    "payload": {
+      "severity": "critical",
+      "message": "Event fdfee4ec",
+      "value": 309.58
+    }
+  },
+  {
+    "id": "d9c6dfd3-0001-422d-848d-1a0d20879114",
+    "source": "partner-feed",
+    "event_type": "security",
+    "timestamp": "2024-07-03T08:17:11",
+    "payload": {
+      "severity": "info",
+      "message": "Event d1cac8ac",
+      "value": 259.19
+    }
+  },
+  {
+    "id": "0251c3ab-ca5e-4371-bcbb-6052e97e2ffa",
+    "source": "internal-cron",
+    "event_type": "audit",
+    "timestamp": "2024-10-24T00:05:00",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 5cabb74e",
+      "value": 576.25
+    }
+  },
+  {
+    "id": "5d72610d-17b6-4a96-9d5b-35b1aa887dc7",
+    "source": "batch-ingest",
+    "event_type": "security",
+    "timestamp": "2024-07-12T12:10:17",
+    "payload": {
+      "severity": "debug",
+      "message": "Event c565801e",
+      "value": 466.82
+    }
+  },
+  {
+    "id": "80dc7503-8ff6-450b-97fe-84ad837b5631",
+    "source": "mobile-api",
+    "event_type": "transaction",
+    "timestamp": "2024-12-25T02:09:19",
+    "payload": {
+      "severity": "info",
+      "message": "Event 41ffa208",
+      "value": 115.99
+    }
+  },
+  {
+    "id": "20e5e4b1-2e7a-4384-82dd-ef30905639ef",
+    "source": "web-app",
+    "event_type": "audit",
+    "timestamp": "2024-10-13T21:03:26",
+    "payload": {
+      "severity": "critical",
+      "message": "Event 0e4a3385",
+      "value": 913.23
+    }
+  },
+  {
+    "id": "bd35f3d6-2818-4512-8022-29918c00c767",
+    "source": "internal-cron",
+    "event_type": "system",
+    "timestamp": "2024-09-05T01:13:15",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 05c7580e",
+      "value": 367.54
+    }
+  },
+  {
+    "id": "b4602dd4-1de5-4368-a42f-ff33136dda9e",
+    "source": "batch-ingest",
+    "event_type": "user_action",
+    "timestamp": "2024-07-25T01:12:43",
+    "payload": {
+      "severity": "warning",
+      "message": "Event 440adb07",
+      "value": 453.72
+    }
+  }
+]
