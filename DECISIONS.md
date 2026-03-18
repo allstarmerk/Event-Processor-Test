@@ -218,3 +218,9 @@ The boundary dataset is the most significant: all 20 events passed through the t
 5. **Property-based testing.**  Tools like `hypothesis` would let us generate arbitrary
    event payloads and timestamps to find edge cases in fingerprinting and time-window
    logic that hand-written fixtures might miss.
+
+6. **Spend more time getting acquainted with the codebase.**  With more time I would do
+   a deeper read of the full codebase before making any changes — understanding the
+   existing design decisions, data flow, and intent behind each component more thoroughly.
+   That familiarity would reduce reliance on tools like Claude for analysis and let me
+   reason about tradeoffs and edge cases more independently from the start.
