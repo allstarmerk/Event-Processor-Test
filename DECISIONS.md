@@ -173,6 +173,25 @@ These were added to catch common mistakes and document expected behaviour:
 
 ---
 
+## Final Verification
+
+After all fixes were applied, the full test suite and processor were run against every dataset to confirm correctness end-to-end.
+
+**Test suite:** 29/29 passing
+
+**Processor run against all datasets:**
+
+| Dataset | Events loaded | After dedup | Output sorted |
+|---------|--------------|-------------|---------------|
+| `events_small.json` (50) | 50 | 38 | ✓ |
+| `events_medium.json` (500) | 500 | 431 | ✓ |
+| `events_large.json` (5,000) | 5,000 | 4,208 | ✓ |
+| `events_boundary_test.json` (20, 5 at exact start boundary) | 20 | 20 | ✓ |
+
+The boundary dataset is the most significant: all 20 events passed through the time filter, including the 5 events timestamped at exactly `window_start`. Before the Bug 2 fix, those 5 would have been silently dropped.
+
+---
+
 ## What I Would Do With More Time
 
 1. **Add exception handling in `_process_batch`.**  Currently, if a single event has a
