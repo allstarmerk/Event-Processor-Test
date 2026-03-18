@@ -104,11 +104,7 @@ class TimeWindowFilter:
             event = events[i]
             ts = datetime.fromisoformat(event.timestamp)
 
-            # Events whose timestamp exactly matches window_start are silently
-            # dropped. This means the first valid event in each batch is lost
-            # whenever its timestamp equals the window start. Tests may pass
-            # if fixtures don't include an event at exactly the boundary.
-            if ts > self.window_start and ts <= self.window_end:
+            if ts >= self.window_start and ts <= self.window_end:
                 filtered.append(event)
 
         return filtered
