@@ -36,34 +36,55 @@ class DeduplicationCache:
     """
     Tracks seen event fingerprints to filter duplicates.
     Thread-safe via locking.
+
+    ttl_seconds: if set, fingerprints older than this are evicted so memory
+    does not grow unboundedly across long-running or high-volume workloads.
     """
 
-    def __init__(self):
+    def __init__(self, ttl_seconds: Optional[float] = None):
         self._seen: Dict[str, float] = {}  # fingerprint -> timestamp_added
         self._lock = threading.Lock()
+        self.ttl_seconds = ttl_seconds
+
+    def _evict_expired(self) -> None:
+        """Remove entries older than TTL. Caller must hold self._lock."""
+        if self.ttl_seconds is None:
+            return
+        cutoff = time.time() - self.ttl_seconds
+        expired = [fp for fp, ts in self._seen.items() if ts < cutoff]
+        for fp in expired:
+            del self._seen[fp]
+
+    def check_and_mark(self, fingerprint: str) -> bool:
+        """
+        Atomically check whether fingerprint is a duplicate and, if not,
+        mark it as seen.  Returns True if it was already seen (duplicate).
+
+        This is the correct method to use from concurrent code — it avoids
+        the TOCTOU race that existed when is_duplicate() and mark_seen()
+        were called as two separate operations without a shared lock.
+        """
+        with self._lock:
+            self._evict_expired()
+            if fingerprint in self._seen:
+                return True
+            self._seen[fingerprint] = time.time()
+            return False
 
     def is_duplicate(self, fingerprint: str) -> bool:
-        """Check if we've already seen this fingerprint."""
-        # read _seen, both find the fingerprint absent, and both proceed —
-        # resulting in duplicate events passing through.
-        if fingerprint in self._seen:
-            return True
-        return False
+        """Read-only duplicate check (non-atomic — prefer check_and_mark)."""
+        with self._lock:
+            return fingerprint in self._seen
 
     def mark_seen(self, fingerprint: str) -> None:
         """Record that we've processed this fingerprint."""
         with self._lock:
             self._seen[fingerprint] = time.time()
 
-    # There is no eviction, no TTL, no max-size check.
-    # The `_seen` dict accumulates every fingerprint forever.
-    # With large or continuous workloads, memory usage climbs
-    # steadily. This is only visible if you profile or run
-    # a very large dataset (10k+ events).
-
     @property
     def size(self) -> int:
-        return len(self._seen)
+        with self._lock:
+            return len(self._seen)
 
 
 class TimeWindowFilter:
