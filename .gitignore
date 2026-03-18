@@ -13,6 +13,10 @@ htmlcov/
 # Generated output
 output*.json
 
+# Generated test datasets (created by generate_data.py)
+# Existing data/ files are tracked for convenience; future regenerated files will not be
+data/*.json
+
 # Virtual environments
 .venv/
 venv/
